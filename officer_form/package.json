@@ -4,7 +4,8 @@
   "description": "A form for police officers to submit data from calls and infractions",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index.js"
   },
   "author": "Suvir Copparam <scoppara@usc.edu> and Amulya Bhattarai <amulyab@gmail.com>",
   "license": "ISC",
