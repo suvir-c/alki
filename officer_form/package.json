@@ -1,0 +1,16 @@
+{
+  "name": "officer_form",
+  "version": "1.0.0",
+  "description": "A form for police officers to submit data from calls and infractions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Suvir Copparam <scoppara@usc.edu> and Amulya Bhattarai <amulyab@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "csv-write-stream": "^2.0.0",
+    "express": "^4.16.3"
+  }
+}

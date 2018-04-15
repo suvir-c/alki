@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<script>
+			function redirectToForm() {
+				console.log('heyyy');
+				window.location.replace("http://localhost:3000/form");
+				/* var request = new XMLHttpRequest();
+				request.open("GET", "http://localhost:3000/form", false);
+				request.send();
+				console.log(request.responseText);*/
+			}
+			function redirectToAnalytics() {
+				console.log('aoewifj');
+			}
+		</script>
+		<link rel="stylesheet" type="text/css" href="allStyles.css">
+	</head>
+	<body>
+		<div id=title class="title">
+			Alki
+		</div>
+		<button onclick="redirectToForm()">
+			infraction entry
+		</button>
+		<button onclick="redirectToAnalytics()">
+			infraction analytics
+		</button>
+	</body>
+</html>
