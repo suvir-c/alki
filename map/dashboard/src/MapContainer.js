@@ -6,7 +6,7 @@ import collision from './data/collision_data.json';
 import speedingData from './data/officer_data.json'; 
 import grapefruit from './grapefruit smol.png';
 import acai from './acai smol.png';
-import green from './green_smol.png';
+import green from './green.png';
 
 export class MapContainer extends Component {
 
@@ -51,6 +51,7 @@ export class MapContainer extends Component {
         let speedIndex = 0;
         let speeding = speedingData.map((item) => {
             speedIndex++;
+            console.log(item);
             return (
                 <Marker
                     onClick = {this.onMarkerClick}
@@ -125,24 +126,27 @@ export class MapContainer extends Component {
         }
 
         let speeding = null;
-        if (!this.state.hideSpeeding) {
+        if (!this.state.hideSpeed) {
             speeding = this.state.speeding;
         }
 
-        let selectedPlaceInfo = [];
-        for (var key in this.state.activeMarker.data) {
-            selectedPlaceInfo.push("" + key +": " + this.state.activeMarker.data[key]);
-        }
+        let renderSelectedPlace = null;
+        if (this.state.activeMarker !== null && this.state.activeMarker.data !== null) {
+            let selectedPlaceInfo = [];
+            for (var key in this.state.activeMarker.data) {
+                selectedPlaceInfo.push("" + key + ": " + this.state.activeMarker.data[key]);
+            }
 
-        let renderSelectedPlace = selectedPlaceInfo.map((item) => {
-            return (
-                <p>{item}</p>
-            )
-        });
+            renderSelectedPlace = selectedPlaceInfo.map((item) => {
+                return (
+                    <p>{item}</p>
+                )
+            });
+        }
 
         return (
             <div className='sideBySide'>
-                <SideBar onDUIToggle = {this.onDUIToggle.bind(this)} onCollisionToggle = {this.onCollisionToggle.bind(this)} />
+                <SideBar onDUIToggle = {this.onDUIToggle.bind(this)} onCollisionToggle = {this.onCollisionToggle.bind(this)} onSpeedingToggle = {this.onSpeedingToggle.bind(this)} />
                 <div className="map">
                     <Map google={this.props.google}
                          onClick={this.onMapClicked}

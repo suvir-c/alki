@@ -9,8 +9,7 @@ class SideBar extends Component {
     render() {
         return (
             <div className="sidenav">
-		<img src={alki} alt="alki" className="sidebar-logo"/>
-                {/*<p className="title">Alki</p>*/}
+		        <img src={alki} alt="alki" className="sidebar-logo"/>
                 <div onClick={this.props.onDUIToggle} className="dui" style={{'font-size': '22px'}}>
                     <img src={acai} alt="acai" className="pull-left"/>
                     <span className="pull-right" > DUI</span>
@@ -21,7 +20,7 @@ class SideBar extends Component {
                 </div>
                 <div onClick={this.props.onSpeedingToggle} className="speeding" style={{'font-size': '22px'}}>
                     <img src={green} alt="green" className="pull-left"/>
-                    <span className="pull-right"> Speeding Tickets</span>
+                    <span className="pull-right"> Speeding</span>
                 </div>
             </div>
         );
