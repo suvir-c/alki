@@ -30,6 +30,26 @@ app.post('/infractions', (req, res) => {
 	res.sendFile(path.join(__dirname + '/webpages/driverEntry.html'));
 });
 
+app.get('/allStyles.css', (req, res) => {
+	res.sendFile(path.join(__dirname, '/webpages/allStyles.css'));	
+});
+
+app.get('/assets/grapefruit_arrow.png', (req, res) => {
+	res.sendFile(path.join(__dirname, '/assets/grapefruit_arrow.png'));
+});
+
+app.get('/assets/grapefruit_rectangle.png', (req, res) => {
+	res.sendFile(path.join(__dirname, '/assets/grapefruit_rectangle.png'));
+});
+
+app.get('/assets/grapefruit_ellipse.png', (req, res) => {
+	res.sendFile(path.join(__dirname, '/assets/grapefruit_ellipse.png'));
+});
+
+app.get('/assets/blue_ellipse.png', (req, res) => {
+	res.sendFile(path.join(__dirname, '/assets/blue_ellipse.png'));
+});
+
 app.get('/download/:secret', (req, res) => {
 	if(req.params.secret === process.env.SECRET) {
 		res.sendFile(path.join(__dirname, '.data', 'infractions.csv'));
