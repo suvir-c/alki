@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
+import grapefruit from './grapefruit.png';
+import acai from './blu.png';
 
 class SideBar extends Component {
     render() {
@@ -7,12 +9,12 @@ class SideBar extends Component {
             <div className="sidenav">
                 <p className="title">Alki</p>
                 <div>
-                    <span className="pull-left">DUI</span>
-                    <img src={"./grapefruit smol.png"} alt="grapefruit" />
+                    <img src={grapefruit} alt="grapefruit" className="pull-left"/>
+                    <span className="pull-right" style={{'font-size': '22px'}}> DUI</span>
                 </div>
                 <div>
-                    <span className="pull-left">Collisions</span>
-                    <img src={"./acai smol.png"} alt="acai" />
+                    <img src={acai} alt="acai" className="pull-left"/>
+                    <span className="pull-right" style={{'font-size': '22px'}}> Collisions</span>
                 </div>
             </div>
         );
