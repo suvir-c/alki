@@ -7,5 +7,5 @@ with open('./data/raw/Parking_Citations.csv', 'rt') as inp, open('./data/filtere
 		date = row[1]
 		date = date[-2:]
 		if date == "16" and count > 0:
-			writer.writerow( (row[1], row[15], row[16], row[17], row[18]) )
+			writer.writerow( (row[1], row[11], row[15], row[16], row[17], row[18]) )
 		count = count + 1
