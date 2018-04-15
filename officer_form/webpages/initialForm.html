@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<script>
+			function redirectToFurtherDetails() {
+				var request = new XMLHttpRequest();
+				request.open("GET", "http://localhost:3000/furtherDetails?infractionType=" + document.infractionForm.infractionType.value, false);
+				request.send();
+
+				document.getElementById("wrapper").innerHTML = request.responseText;	
+				// window.location = "http://localhost:3000/furtherDetails";
+			}
+			function redirectToDriverEntry() {
+				window.location.replace("http://localhost:3000/driverEntry");
+			}
+		</script>
+		<link rel="stylesheet" type="text/css" href="allStyles.css">
+	</head>
+	<body>
+		<div id="wrapper">
+			<form name="infractionForm" class="dropdown">
+				<label>infraction type</label>
+				<select name="infractionType" >
+					<option value="speeding">speeding</option>
+					<option value="parking">parking</option>
+					<option value="collision">collision</option>
+					<option value="running red">running red</option>
+					<option value="seat belt">seat belt</option>
+					<option value="DUI">DUI</option>
+					<option value="distracted">distracted</option>
+					<option value="HOV">HOV</option>
+					<option value="median">median</option>
+					<option value="failure to yield">failure to yield</option>
+				</select>
+				<button class="bottomButton" onclick="redirectToFurtherDetails()">
+					next
+					<img src="./assets/grapefruit_arrow.png" class="ellipse">
+				</button>
+			</form>
+		</div>
+	</body>
+</html>
+

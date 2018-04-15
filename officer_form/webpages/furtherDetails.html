@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<script>
+			function redirectToDriverEntry() {
+				window.location.replace("http://localhost:3000/driverEntry");
+			}	
+		</script>
+		<link rel="stylesheet" type="text/css" href="./allStyles.css">
+	</head>
+	<body>
+		<form method="POST" action="http://localhost:3000/infractions" onsubmit="redirectToDriverEntry()" name="detailsForm">
+			<label>latitude</label><input type="text" name="latitude"></input><br />
+			<label>longitude</label><input type="text" name="longitude"></input><br />
+			<label>time</label><input type="text" name="time"></input><br />
+			<label>road conditions</label><input type="text" name="road"></input><br />
+			<label>weather</label><input type="text" name="weather"></input><br />
+			<label>driver explanation for infraction</label><input type="text" class="long-text" name="driverExplanation"></input><br />
+			<button type="submit" class="bottomButton">
+				next
+				<img src="./assets/grapefruit_arrow.png" class="ellipse"/>	
+			</button>
+		</form>
+	</body>
+</html>

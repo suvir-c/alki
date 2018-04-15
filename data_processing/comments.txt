@@ -1,7 +1,9 @@
 collisions:
-	need 0 (real lat), 1 (real long), 4, 7, 8, 18, 26 (weather), 40 (collision severity), 41 (number_killed), 42 (number_injured), 43 (primary collision factor), 46 (pcf violation category), 50 (type of collision), 51 (motor vehicle involved with), 54 (road condition 1), 56 (lighting), 64 (alcohol involved), 78 (lat), 79 (long)
+	need 0 (real lat), 1 (real long), 4 (accident year), 7 (collision date), 8 (collision_time), 18 (city_division_lapd), 26 (weather), 40 (collision severity), 41 (number_killed), 42 (number_injured), 43 (primary collision factor), 46 (pcf violation category), 50 (type of collision), 51 (motor vehicle involved with), 54 (road condition 1), 56 (lighting), 64 (alcohol involved), 78 (lat), 79 (long)
+	more info: http://visionzero.lacity.org/wp-content/uploads/2016/09/SWITRS_codebook.pdf
 
 skip traffic counts
 
 parking citations:
-	need 1 (issue date), 16 (violation description), 17 (fine amount), 18 (lat), 19 (long), 
+	need 1 (issue date), 11 (location) 16 (violation description), 17 (fine amount), 18 (lat), 19 (long), 
+	more info: https://data.lacity.org/A-Well-Run-City/Parking-Citations/wjz9-h9np

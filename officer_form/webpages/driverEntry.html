@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>
+			driver entry
+		</title>
+		<script>
+			function redirectToSubmitted() {
+				window.location.replace("http://localhost:3000/submitted");
+			}
+		</script>
+		<link rel="stylesheet" type="text/css" href="./allStyles.css">
+	</head>
+	<body>
+		<!-- currently does nothing, but future prospect is to link this to government-supplied DB/endpoint to protect personal informration -->
+		<form name="driverEntryForm">
+			<div class="formWrapper">
+				<div class="leftFields">
+						<label>last name</label><input type="text" name="lastName"></input> <br />
+						<label>middle</label><input type="text" name="middleName"></input> <br />
+						<label>first name</label><input type="text" name="firstName"></input> <br />
+						<label>sex</label><input type="text" name="sex"></input><br />
+						<label>weight</label><input type="text" name="weight"></input><br />
+						<!-- TODO: figure out how to format this data -->
+						<label>height</label><input type="text" name="height"></input><br />
+						<label>DOB</label><input type="text" name="DOB"></input><br />
+						<label>restrictions</label><input type="text" name="restrictions"></input> <br />
+						<label>address</label><input type="text" name="address"></input> <br />
+						<label>city</label><input type="text" name="city"></input> <br />
+						<label>state</label><input type="text" name="state"></input> <br />
+						<label>zip</label><input type="text" name="zip"></input> <br />
+				</div>
+				<div class="rightFields">
+						<label>DL#</label><input type="text" name="licenseNumber"></input> <br />
+						<label>VIN</label><input type="text" name="vehicleIDNumber"></input> <br />
+						<label>license plate</label><input type="text" name="licensePlate"></input> <br />
+						<label>year</label><input type="text" name="year"></input> <br />
+						<label>make</label><input type="text" name="make"></input> <br />
+						<label>model</label><input type="text" name="model"></input> <br />
+						<label>color</label><input type="text" name="color"></input> <br />
+				</div>
+			</div>
+			<button class="bottomButton" onclick="redirectToSubmitted()">
+				enter
+				<img src="./assets/grapefruit_rectangle.png" class="ellipse" />
+			</button>
+		</form>
+	</body>
+</html>
