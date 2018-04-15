@@ -1,0 +1,8002 @@
+[
+  {
+    "issue_date": "1/4/16",
+    "address": "2650 12TH ST E",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6494776,
+    "long": 1830622.8
+  },
+  {
+    "issue_date": "1/5/16",
+    "address": "5202 YORK BLVD",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/2/16",
+    "address": "2930 FRANCIS AVE",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/6/16",
+    "address": "2916 W 8TH ST",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/6/16",
+    "address": "2909 W 2ND ST",
+    "violation_description": "22500F",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/5/16",
+    "address": "809 W 68TH ST",
+    "violation_description": "22500H",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "951 OXFORD",
+    "violation_description": "22500F",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/6/16",
+    "address": "800 NORMANDIE",
+    "violation_description": "22500F",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/7/16",
+    "address": "13TH/PALO VERDE",
+    "violation_description": "22500E",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/13/16",
+    "address": "600 PICO BLVD",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/1/16",
+    "address": "6200 W ROCKCLIFF",
+    "violation_description": "PREF PARKING",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/14/16",
+    "address": "1759 SHELDON ST",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/6/16",
+    "address": "7516 CANBY AVE",
+    "violation_description": "22500H",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/8/16",
+    "address": "6101 WESTCHESTER PKW",
+    "violation_description": "17104c",
+    "fine_amount": "",
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/8/16",
+    "address": "6101 WESTCHESTER PKW",
+    "violation_description": "17104c",
+    "fine_amount": "",
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/8/16",
+    "address": "6101 WESTCHESTER PKW",
+    "violation_description": "17104c",
+    "fine_amount": "",
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/8/16",
+    "address": "6101 WESTCHESTER PKW",
+    "violation_description": "17104c",
+    "fine_amount": "",
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/8/16",
+    "address": "6101 WESTCHESTER PKW",
+    "violation_description": "17104c",
+    "fine_amount": "",
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/10/16",
+    "address": "380 WORLD WAY",
+    "violation_description": "17104h",
+    "fine_amount": "",
+    "lat": 6439920.1,
+    "long": 1802686.7
+  },
+  {
+    "issue_date": "1/9/16",
+    "address": "380 WORLD WAY",
+    "violation_description": "22500B",
+    "fine_amount": 68,
+    "lat": 6439920.1,
+    "long": 1802686.7
+  },
+  {
+    "issue_date": "1/19/16",
+    "address": "555 G ST E",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/7/16",
+    "address": "BEVERLY/BLAIN BRIDGE",
+    "violation_description": 80361,
+    "fine_amount": "",
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/1/16",
+    "address": "6743 VARIEL AVE",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "1401 IVAR AVE",
+    "violation_description": "RESTRICTED TAXI ZONE",
+    "fine_amount": 68,
+    "lat": 6462120.7,
+    "long": 1857542
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "105 4TH ST E",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6486771.1,
+    "long": 1839997.8
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "900 BRITTANIA ST",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/2/16",
+    "address": "717 POINSETTIA PL N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6456095.3,
+    "long": 1853068.9
+  },
+  {
+    "issue_date": "1/2/16",
+    "address": "716 MARTEL AVE N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6455352.3,
+    "long": 1853089.1
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "18239 GAULT ST",
+    "violation_description": "18 IN. CURB/2 WAY",
+    "fine_amount": 63,
+    "lat": 6401189.2,
+    "long": 1895335.5
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "16701 BASSETT ST",
+    "violation_description": "COMM VEH OVER TIME L",
+    "fine_amount": 78,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "16700 HART ST",
+    "violation_description": "COMM VEH OVER TIME L",
+    "fine_amount": 78,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "21800 SCHOENBORN ST",
+    "violation_description": "COMM VEH OVER TIME L",
+    "fine_amount": 78,
+    "lat": 6379208,
+    "long": 1903330.1
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "21501 SCHOENBORN ST",
+    "violation_description": "PARKED OVER TIME LIM",
+    "fine_amount": 58,
+    "lat": 6380617.2,
+    "long": 1903323.2
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "21501 SCHOENBORN ST",
+    "violation_description": "PARKED OVER TIME LIM",
+    "fine_amount": 58,
+    "lat": 6380617.2,
+    "long": 1903323.2
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "21501 SCHOENBORN ST",
+    "violation_description": "PARKED OVER TIME LIM",
+    "fine_amount": 58,
+    "lat": 6380617.2,
+    "long": 1903323.2
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "21501 SCHOENBORN ST",
+    "violation_description": "PARKED OVER TIME LIM",
+    "fine_amount": 58,
+    "lat": 6380617.2,
+    "long": 1903323.2
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "21501 SCHOENBORN ST",
+    "violation_description": "DISPLAY OF PLATES",
+    "fine_amount": 25,
+    "lat": 6380617.2,
+    "long": 1903323.2
+  },
+  {
+    "issue_date": "1/2/16",
+    "address": "801 164TH ST W",
+    "violation_description": "STANDNG IN ALLEY",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/2/16",
+    "address": "801 164TH ST W",
+    "violation_description": "STANDNG IN ALLEY",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "6275 MENLO AVE S",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "2301 105TH ST E",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6491699.5,
+    "long": 1800841.9
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "10879 GORMAN AVE S",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "9501 MAIN ST S",
+    "violation_description": "FIRE HYDRANT",
+    "fine_amount": 68,
+    "lat": 6478606.7,
+    "long": 1804430.6
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "501 119TH ST W",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6475939.3,
+    "long": 1795187.4
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "721 W  EL SEGUNDO BLVD",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6474445.7,
+    "long": 1792092.1
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "800 HARVARD BLVD N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6469538.7,
+    "long": 1843512.8
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "700 HARVARD BLVD N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6469538.8,
+    "long": 1844247.9
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "700 HARVARD BLVD N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6469538.8,
+    "long": 1844247.9
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "1770 MIDVALE AVE S",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "411 HILL ST N",
+    "violation_description": "NO STOP/STAND",
+    "fine_amount": 93,
+    "lat": 6485692.8,
+    "long": 1840606.8
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "411 HILL ST N",
+    "violation_description": "NO STOP/STAND",
+    "fine_amount": 93,
+    "lat": 6485692.8,
+    "long": 1840606.8
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "411 HILL ST N",
+    "violation_description": "NO STOP/STAND",
+    "fine_amount": 93,
+    "lat": 6485692.8,
+    "long": 1840606.8
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "411 HILL ST N",
+    "violation_description": "NO STOP/STAND",
+    "fine_amount": 93,
+    "lat": 6485692.8,
+    "long": 1840606.8
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "500 RIALTO AVE",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6419998.8,
+    "long": 1818724
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "1529 CASSIL PL",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "4867 SUNSET BLVD W",
+    "violation_description": "WHITE ZONE",
+    "fine_amount": 58,
+    "lat": 6472239,
+    "long": 1858229
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "1901 SAWTELLE BL",
+    "violation_description": "WHITE ZONE",
+    "fine_amount": 58,
+    "lat": 6426866.1,
+    "long": 1838141.3
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "8548 LANKERSHIM BOULEVARD",
+    "violation_description": "NO STOP/STAND",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "8548 LANKERSHIM BOULEVARD",
+    "violation_description": "NO STOP/STAND",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/2/16",
+    "address": "15506 TUPPER STREET",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/2/16",
+    "address": "1101 GLENDON AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6427050.6,
+    "long": 1844798.1
+  },
+  {
+    "issue_date": "1/2/16",
+    "address": "1000 WESTWOOD BLVD",
+    "violation_description": "OUTSIDE LINES/METER",
+    "fine_amount": 58,
+    "lat": 6426797.9,
+    "long": 1845451.3
+  },
+  {
+    "issue_date": "1/2/16",
+    "address": "900 TIVERTON AV",
+    "violation_description": "OUTSIDE LINES/METER",
+    "fine_amount": 58,
+    "lat": 6427665.9,
+    "long": 1845867.5
+  },
+  {
+    "issue_date": "1/2/16",
+    "address": "1101 WESTWOOD BLVD",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6426785.9,
+    "long": 1844802.9
+  },
+  {
+    "issue_date": "1/2/16",
+    "address": "1101 WESTWOOD BLVD",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6426785.9,
+    "long": 1844802.9
+  },
+  {
+    "issue_date": "1/3/16",
+    "address": "2428 S BUDLONG",
+    "violation_description": 5200,
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "13561 SHERMAN WAY",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6432077.7,
+    "long": 1895875.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "16510 ARCHWOOD ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6412658.6,
+    "long": 1892954.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15056 HARTLAND ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6422215.9,
+    "long": 1893768.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15046 HARTLAND ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6422263.7,
+    "long": 1893768.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15040 HARTLAND ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6422292.4,
+    "long": 1893767.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15041 HARTLAND ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6422405.6,
+    "long": 1893767.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6905 NOBLE AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6422015.8,
+    "long": 1893981.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7835 JUTLAND AVE",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5375 TAMPA AVE",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5375 TAMPA AVE",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5375 TAMPA AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5901 OSO AVE",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5901 OSO AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "20636 OXNARD ST",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "20101 OXNARD ST",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "20101 OXNARD ST",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "20101 OXNARD ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "20101 OXNARD ST",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "22238 BASSETT ST",
+    "violation_description": "PARKED ON SIDEWALK",
+    "fine_amount": 68,
+    "lat": 6376933.1,
+    "long": 1894069.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5200 WELLER DR",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "22322 MACFARLANE DR",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8530 SHOUP AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6900 LARCHWOOD CIR",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6300 CALLICOTT AVE",
+    "violation_description": "18 IN. CURB/2 WAY",
+    "fine_amount": 63,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1604 ARAPAHOE ST",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6475224.4,
+    "long": 1838518
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2552 PICO BLVD",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6472933.3,
+    "long": 1839708.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2568 PICO BLVD",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1327 CATALINA AVE",
+    "violation_description": "FIRE HYDRANT",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1870 WASHINGTON BLVD",
+    "violation_description": "NO STOP/STAND",
+    "fine_amount": 93,
+    "lat": 6470922.7,
+    "long": 1837064.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1870 WASHINGTON BLVD",
+    "violation_description": "NO STOP/STAND",
+    "fine_amount": 93,
+    "lat": 6470922.7,
+    "long": 1837064.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1870 WASHINGTON BLVD",
+    "violation_description": "NO STOP/STAND",
+    "fine_amount": 93,
+    "lat": 6470922.7,
+    "long": 1837064.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1856 WASHINGTON BLVD",
+    "violation_description": "NO STOP/STAND",
+    "fine_amount": 93,
+    "lat": 6471047,
+    "long": 1837064.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1852 WASHINGTON BLVD",
+    "violation_description": "NO STOP/STAND",
+    "fine_amount": 93,
+    "lat": 6471082.5,
+    "long": 1837064.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1852 WASHINGTON BLVD",
+    "violation_description": "NO STOP/STAND",
+    "fine_amount": 93,
+    "lat": 6471082.5,
+    "long": 1837064.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7109 ST ANDREWS PL S",
+    "violation_description": "FIRE HYDRANT",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "465 FIGUEROA ST S",
+    "violation_description": "WHITE ZONE",
+    "fine_amount": 58,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "615 SOUTH FIGUEROA STREET",
+    "violation_description": "WHITE ZONE",
+    "fine_amount": 58,
+    "lat": 6483272.9,
+    "long": 1840868.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "615 SOUTH FIGUEROA STREET",
+    "violation_description": "WHITE ZONE",
+    "fine_amount": 58,
+    "lat": 6483272.9,
+    "long": 1840868.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "306 SOUTH HILL STREET",
+    "violation_description": "YELLOW ZONE",
+    "fine_amount": 58,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "306 SOUTH HILL STREET",
+    "violation_description": "YELLOW ZONE",
+    "fine_amount": 58,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "306 SOUTH HILL STREET",
+    "violation_description": "YELLOW ZONE",
+    "fine_amount": 58,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "306 SOUTH HILL STREET",
+    "violation_description": "YELLOW ZONE",
+    "fine_amount": 58,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "902 LOS ANGELES ST S",
+    "violation_description": "YELLOW ZONE",
+    "fine_amount": 58,
+    "lat": 6484677.4,
+    "long": 1837295.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "833 TRACTION AVENUE",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "306 SOUTH HILL STREET",
+    "violation_description": "YELLOW ZONE",
+    "fine_amount": 58,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "306 SOUTH HILL STREET",
+    "violation_description": "YELLOW ZONE",
+    "fine_amount": 58,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "412 SOUTH HILL STREET",
+    "violation_description": "YELLOW ZONE",
+    "fine_amount": 58,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "412 SOUTH HILL STREET",
+    "violation_description": "YELLOW ZONE",
+    "fine_amount": 58,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7742 WILKINSON AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6439453.7,
+    "long": 1899536.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7938 WILKINSON AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6439472.8,
+    "long": 1900954.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6937 SIMPSON AVE",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 6444056.3,
+    "long": 1894108.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5038 VINELAND AVE",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11721 ARCHWOOD ST",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 6444050.5,
+    "long": 1892525.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15822 MAYALL ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "18541 CITRONIA ST",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6399442.1,
+    "long": 1912147.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9600 RESEDA BLVD",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6399652.5,
+    "long": 1911816
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10200 MONOGRAM AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10126 MONOGRAM AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "16536 MAYALL ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10048 SWINTON AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6414803.6,
+    "long": 1914847.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "16200 MAYALL ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6415142,
+    "long": 1915090.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9900 GOTHIC AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "16200 MAYALL ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6415142,
+    "long": 1915090.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "19551 PRAIRIE ST",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9340 PENFIELD AVE",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6389495.6,
+    "long": 1910084.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9300 PENFIELD AVE",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6389501.9,
+    "long": 1909915.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6700 DE SOTO AVE",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 6383719.2,
+    "long": 1892471.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5200 BLAKESLEE AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6448999.2,
+    "long": 1882601.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11000 MCCORMICK ST",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6449300.8,
+    "long": 1882982.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5301 BAKMAN AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6447505.9,
+    "long": 1883369.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5301 BAKMAN AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6447505.9,
+    "long": 1883369.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4431 MOORPARK WAY",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6452968.6,
+    "long": 1877304.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11100 WEDDINGTON ST",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6449000.2,
+    "long": 1883363.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11000 WEDDINGTON ST",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6449608.5,
+    "long": 1883360.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4389 TROOST AVE",
+    "violation_description": "18 IN. CURB/2 WAY",
+    "fine_amount": 63,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11100 MAGNOLIA BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6448999.2,
+    "long": 1882601.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5330 CORTEEN PL",
+    "violation_description": "18 IN. CURB/2 WAY",
+    "fine_amount": 63,
+    "lat": 6440074.8,
+    "long": 1883560
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "12330 MAGNOLIA BLVD",
+    "violation_description": "FIRE HYDRANT",
+    "fine_amount": 68,
+    "lat": 6440070.8,
+    "long": 1882624.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4425 TALOFA AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6455267.9,
+    "long": 1877461
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4425 TALOFA AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6455267.9,
+    "long": 1877461
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4431 TALOFA AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6455267.7,
+    "long": 1877501.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "770 N HYPERION",
+    "violation_description": "22500F",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4301 TUJUNGA AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6447001.3,
+    "long": 1876409.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11301 WOODBRIDGE ST",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6447661.3,
+    "long": 1876658.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4300 TUJUNGA AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6447001.3,
+    "long": 1876389.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4300 TUJUNGA AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6447001.3,
+    "long": 1876389.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11001 MCCORMICK ST",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6449300.8,
+    "long": 1882982.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8345 POOLE AVE",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 6451975.2,
+    "long": 1903591.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9967 MILBURN DR",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10427 CROCKETT ST",
+    "violation_description": "DISPLAY OF PLATES",
+    "fine_amount": 25,
+    "lat": 6453176.1,
+    "long": 1902694.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8625 ROBERT AVE",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11236 DORA ST",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8551 HADDON AVE",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5511 SEPULVEDA BOULEVARD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6420660.3,
+    "long": 1884944.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5407 SEPULVEDA BOULEVARD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5325 SEPULVEDA BOULEVARD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6420655,
+    "long": 1883620.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15247 CLARK STREET",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15247 CLARK STREET",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5426 COLUMBUS AVENUE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5446 COLUMBUS AVENUE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15114 KILLION STREET",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15036 KILLION STREET",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5560 NOBLE AVENUE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5560 NOBLE AVENUE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15000 VICTORY BLVD",
+    "violation_description": "STANDNG IN ALLEY",
+    "fine_amount": 68,
+    "lat": 6422656.3,
+    "long": 1890627.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4250 COSTELLO AVENUE",
+    "violation_description": "BLOCKING DRIVEWAY",
+    "fine_amount": 68,
+    "lat": 6429371.3,
+    "long": 1876499.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "14751 ERWIN STREET",
+    "violation_description": "BLOCKING DRIVEWAY",
+    "fine_amount": 68,
+    "lat": 6424306.1,
+    "long": 1889520.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5537 TYRONE AVENUE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5411 TYRONE AVENUE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5534 SYLMAR AVENUE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6426641.1,
+    "long": 1885155.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "14413 KILLION STREET",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5232 TILDEN AVENUE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6426289.3,
+    "long": 1882945.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "14332 WEDDINGTON STREET",
+    "violation_description": "PARKED ON SIDEWALK",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1100 HOPE ST S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6481976.5,
+    "long": 1837862.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1300 HOPE ST S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6481194.1,
+    "long": 1836860
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1235 FACTORY PL",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3109 WABASH AVENUE",
+    "violation_description": "PARKED OVER TIME LIM",
+    "fine_amount": 58,
+    "lat": 6502867.4,
+    "long": 1840198.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "17171 ROSCOE BOULEVARD",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 6407984.9,
+    "long": 1903243.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "18000 NORDHOFF ST",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 6402913.1,
+    "long": 1908495.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "18134 NORDHOFF ST",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 6402051.2,
+    "long": 1908500.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "17900 NORDHOFF STREET",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 6403556.6,
+    "long": 1908568.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "22001 COSTANSO ST",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6378429.2,
+    "long": 1883919.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5480 QUAKERTOWN AVENUE",
+    "violation_description": "PARKED ON SIDEWALK",
+    "fine_amount": 68,
+    "lat": 6389352.3,
+    "long": 1884775
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5480 QUAKERTOWN AVENUE",
+    "violation_description": "DISPLAY OF PLATES",
+    "fine_amount": 25,
+    "lat": 6389352.3,
+    "long": 1884775
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "19600 VENTURA BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6392278.1,
+    "long": 1885733.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "19600 VENTURA BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6392278.1,
+    "long": 1885733.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "19600 VENTURA BL",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6392278.1,
+    "long": 1885733.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "19501 VENTURA BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6392938,
+    "long": 1885722.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "19000 VENTURA BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6396076,
+    "long": 1885607.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "18600 VENTURA BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6398751.5,
+    "long": 1884617.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "18700 VENTURA BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6398109.8,
+    "long": 1884932.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "18600 VENTURA BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6398751.5,
+    "long": 1884617.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11314 HAYVENHURST AVENUE",
+    "violation_description": "STANDNG IN ALLEY",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11314 HAYVENHURST AVENUE",
+    "violation_description": "DISPLAY OF PLATES",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "858 80TH ST W",
+    "violation_description": "FIRE HYDRANT",
+    "fine_amount": 68,
+    "lat": 6473263,
+    "long": 1810387.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8450 HOOVER ST S",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6474618.3,
+    "long": 1808387.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "130 120TH ST W",
+    "violation_description": "FIRE HYDRANT",
+    "fine_amount": 68,
+    "lat": 6478378.1,
+    "long": 1794736.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "131 120TH ST E",
+    "violation_description": "FIRE HYDRANT",
+    "fine_amount": 68,
+    "lat": 6478370.2,
+    "long": 1794736.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11151 MAIN ST S",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6478589.7,
+    "long": 1798451
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11100 MAIN ST S",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6478591.1,
+    "long": 1798764.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "107 108TH ST E",
+    "violation_description": "PARKED ON SIDEWALK",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2260 111TH ST E",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6491113.7,
+    "long": 1798680.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2429 SANTA ANA BLVD",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2549 SANTA ANA BLVD",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2450 SANTA ANA BLVD",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1702 43RD ST E",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1800 55TH ST E",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5455 HOLMES AVE",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "626 37TH ST E",
+    "violation_description": "BLOCKING DRIVEWAY",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3330 VERNON AVE",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3330 VERNON AVE",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2008 VERNON AVE",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6465860.9,
+    "long": 1823877.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1488 VERNON AVE",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6469784.5,
+    "long": 1823868.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1442 VERNON AVE",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6470231.7,
+    "long": 1823866.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4208 WALL ST S",
+    "violation_description": "BLOCKING DRIVEWAY",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3335 FIGUEROA ST S",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6476901.7,
+    "long": 1830615.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1027 MANCHESTER AVE W",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6483676.3,
+    "long": 1807985.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1027 MANCHESTER AVE W",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6483676.3,
+    "long": 1807985.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1027 MANCHESTER AVE W",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6483676.3,
+    "long": 1807985.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1027 MANCHESTER AVE W",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6483676.3,
+    "long": 1807985.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1027 MANCHESTER AVE W",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6483676.3,
+    "long": 1807985.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "928 74TH ST W",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6473744,
+    "long": 1812560.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "928 74TH ST W",
+    "violation_description": "FIRE HYDRANT",
+    "fine_amount": 68,
+    "lat": 6473744,
+    "long": 1812560.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "708 FLORENCE AVE W",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6474940,
+    "long": 1813277.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4441 58TH PL W",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4446 58TH PL W",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4446 58TH PL W",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4446 58TH PL W",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4440 58TH PL W",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4011 6TH AVE",
+    "violation_description": "PARKED ON SIDEWALK",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1340 74TH ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1205 74TH ST W",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1205 74TH ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1337 76TH ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7603 BRIGHTON AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7619 BRIGHTON AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7623 BRIGHTON AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8206 HARVARD BLVD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8400 HARVARD BLVD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1742 84TH PL W",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6468343,
+    "long": 1808625.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1742 84TH PL W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6468343,
+    "long": 1808625.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1742 84TH PL W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6468343,
+    "long": 1808625.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "124 71ST ST W",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1835 85TH ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1851 85TH ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1851 85TH ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2050 84TH PL W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1814 84TH PL W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1815 84TH ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2027 84TH ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8400 CIMARRON ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8400 CIMARRON ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2028 83RD ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1810 83RD ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6467900.2,
+    "long": 1809294.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1859 80TH ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3201 FIGUEROA ST S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6477136.2,
+    "long": 1831054.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "400 38TH ST W",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6474603.7,
+    "long": 1716836.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3400 VERMONT AV S",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6473328.1,
+    "long": 1831789.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3400 VERMONT AV S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6473328.1,
+    "long": 1831789.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4196 MARLTON AVE",
+    "violation_description": "BLOCKING DRIVEWAY",
+    "fine_amount": 68,
+    "lat": 6457847.7,
+    "long": 1825749.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2635 BROADWAY N",
+    "violation_description": "STOP/STAND PROHIBIT",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "223 AVENUE 26 W",
+    "violation_description": "STOP/STAND PROHIBIT",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2201 HUMBOLDT ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6494798.3,
+    "long": 1850859.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2201 HUMBOLDT ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6494798.3,
+    "long": 1850859.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2000 HUMBOLDT ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6494215,
+    "long": 1850402.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1755 SICHEL ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6497219.7,
+    "long": 1845358
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2300 ALHAMBRA AVE",
+    "violation_description": "YELLOW ZONE",
+    "fine_amount": 58,
+    "lat": 6496826,
+    "long": 1845626
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1755 WORKMAN ST",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6496827.6,
+    "long": 1845513.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1812 WORKMAN ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "451 NORMANDIE PLACE",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6470457.9,
+    "long": 1851272.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4162 3RD ST W",
+    "violation_description": "YELLOW ZONE",
+    "fine_amount": 58,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3671 6TH ST W",
+    "violation_description": "NO STOP/STAND",
+    "fine_amount": 93,
+    "lat": 6470163.4,
+    "long": 1845649.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3671 6TH ST W",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6470163.4,
+    "long": 1845649.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "500 SOUTH KINGSLEY DRIVE",
+    "violation_description": "FIRE HYDRANT",
+    "fine_amount": 68,
+    "lat": 6469943.6,
+    "long": 1846308.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5601 WEST 6TH STREET",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "321 SAN VICENTE BLVD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "449 LE DOUX ROAD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6447369.4,
+    "long": 1848263.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "449 LE DOUX ROAD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6447369.4,
+    "long": 1848263.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "449 LE DOUX ROAD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6447369.4,
+    "long": 1848263.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "449 LE DOUX ROAD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6447369.4,
+    "long": 1848263.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "424 HOLT AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6447049.4,
+    "long": 1848609.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "423 SHERBOURNE DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6446729.8,
+    "long": 1848630.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "432 WILLAMAN DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6446408.7,
+    "long": 1848532.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "315 WILLAMAN DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6446411.8,
+    "long": 1849312.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "310 HAMEL ROAD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6446092.1,
+    "long": 1849332.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "325 ARNAZ DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6445771.4,
+    "long": 1849270.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "435 HAMEL ROAD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6446088.6,
+    "long": 1848526.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "601 DUNSMUIR AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6456186.1,
+    "long": 1846181.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5553 WEST 6TH STREET",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5553 WEST 6TH STREET",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "200 WESTERN AV S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6468049.7,
+    "long": 1849561.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "264 NORTH ALTA VISTA BOULEVARD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6456458.6,
+    "long": 1850116.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "264 NORTH ALTA VISTA BOULEVARD",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6456458.6,
+    "long": 1850116.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "410 NORTH ALTA VISTA BOULEVARD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6456460.5,
+    "long": 1851117
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "410 NORTH ALTA VISTA BOULEVARD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6456460.5,
+    "long": 1851117
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "428 NORTH ALTA VISTA BOULEVARD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6456460.7,
+    "long": 1851250.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "428 NORTH ALTA VISTA BOULEVARD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6456460.7,
+    "long": 1851250.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "522 NORTH ALTA VISTA BOULEVARD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6456461.9,
+    "long": 1851899.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "637 NORTH ALTA VISTA BOULEVARD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6456463.2,
+    "long": 1852571.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "639 POINSETTIA PL",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6456094.6,
+    "long": 1852587.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "533 POINSETTIA PL",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6456093.5,
+    "long": 1851958.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "454 FULLER AVE N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "403 VETERAN AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6423874.5,
+    "long": 1848263.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "451 VETERAN AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6423908.1,
+    "long": 1847783.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "451 VETERAN AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6423908.1,
+    "long": 1847783.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "513 VETERAN AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6423926.5,
+    "long": 1847520.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11136 OPHIR DR",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6423398.1,
+    "long": 1847897.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1738 MIDVALE AVE S",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6428643.6,
+    "long": 1841149.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1731 WESTWOOD BLVD",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6428923.8,
+    "long": 1841316.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3201 MOTOR AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6437113.6,
+    "long": 1833766.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2042 KELTON AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1900 KELTON AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6429213.9,
+    "long": 1839811.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3204 CASTLE HEIGHTS AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1665 MANNING AVE S",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10617 EASTBORNE AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6431270.9,
+    "long": 1842462.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10594 HOLMAN AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6431235.9,
+    "long": 1842847.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5810 OLYMPIC BLVD W",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 6453728.4,
+    "long": 1843478.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5810 OLYMPIC BLVD W",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 6453728.4,
+    "long": 1843478.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3915 OLYMPIC BLVD W",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3001 LOS FELIZ BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6481519.4,
+    "long": 1868136.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3101 SILVER LAKE BLVD",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3100 GLENDALE BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6482049,
+    "long": 1864751.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3516 LARGA AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6483171.5,
+    "long": 1865155.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3164 LARGA AVE",
+    "violation_description": "FIRE HYDRANT",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4101 PERLITA AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6480991.5,
+    "long": 1868962.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3100 GLENDALE BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6482049,
+    "long": 1864751.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3650 REVERE AVE",
+    "violation_description": "FIRE HYDRANT",
+    "fine_amount": 68,
+    "lat": 6483177.3,
+    "long": 1866380.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3703 REVERE AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3650 REVERE AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6483177.3,
+    "long": 1866380.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3101 GLENDALE BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6482049,
+    "long": 1864751.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3100 LOS FELIZ BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6481000.4,
+    "long": 1867808.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3101 GLENDALE BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6482049,
+    "long": 1864751.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15244 PARTHENIA ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6421270,
+    "long": 1905775.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8946 WILTON PL S",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2024 91ST ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1341 ANGELINA STREET",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1339 ANGELINA STREET",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1660 CORTEZ STREET",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "300 HAYWORTH AV N",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6451853.5,
+    "long": 1850274.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8001 BEVERLY BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6451529.2,
+    "long": 1850273.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "700 STANLEY AVE N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6453765.3,
+    "long": 1853033.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "100 DETROIT ST N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6457149.1,
+    "long": 1849337
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "400 GARDNER ST N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6454707,
+    "long": 1851039.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7500 ROSEWOOD AVE W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6454708.3,
+    "long": 1851766.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7500 ROSEWOOD AVE W",
+    "violation_description": "DISPLAY OF PLATES",
+    "fine_amount": 25,
+    "lat": 6454708.3,
+    "long": 1851766.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "520 SPAULDING AVE N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6453422.8,
+    "long": 1846420.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "700 POINSETTIA PL N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6456095.1,
+    "long": 1852964.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "700 DETROIT ST N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6457156,
+    "long": 1852932.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "700 DETROIT ST N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6457156,
+    "long": 1852932.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "700 DETROIT ST N",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6457156,
+    "long": 1852932.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "700 EDINBURGH AV N",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6451525,
+    "long": 1853069.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "701 EDINBURGH AV N",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6451525,
+    "long": 1853069.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "301 LARCHMONT BL N",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6463661,
+    "long": 1850273.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "116 LARCHMONT BLVD S",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6463690,
+    "long": 1849001.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4876 SUNSET BLVD W",
+    "violation_description": "WHITE ZONE",
+    "fine_amount": 58,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4876 SUNSET BLVD W",
+    "violation_description": "WHITE ZONE",
+    "fine_amount": 58,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4860 SUNSET BLVD W",
+    "violation_description": "SAFETY ZONE/CURB",
+    "fine_amount": 68,
+    "lat": 6472280.5,
+    "long": 1858229
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4800 SUNSET BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6472681.3,
+    "long": 1858229.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1147 HYPERION AVE N",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6477240,
+    "long": 1856310.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4551 FOUNTAIN AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6474482.9,
+    "long": 1857329.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6500 SELMA AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6461452.3,
+    "long": 1858854.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1501 WILCOX AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6461453.8,
+    "long": 1857650.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1500 HOBART BLVD N",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6469140.9,
+    "long": 1858227.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1501 SERRANO AV N",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6468704.7,
+    "long": 1858227.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1634 SERRANO AV N",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4867 SUNSET BLVD W",
+    "violation_description": "WHITE ZONE",
+    "fine_amount": 58,
+    "lat": 6472239,
+    "long": 1858229
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4867 SUNSET BLVD W",
+    "violation_description": "WHITE ZONE",
+    "fine_amount": 58,
+    "lat": 6472239,
+    "long": 1858229
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4867 SUNSET BLVD W",
+    "violation_description": "WHITE ZONE",
+    "fine_amount": 58,
+    "lat": 6472239,
+    "long": 1858229
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4867 SUNSET BLVD W",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6472239,
+    "long": 1858229
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4867 SUNSET BLVD W",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 6472239,
+    "long": 1858229
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4867 SUNSET BLVD W",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 6472239,
+    "long": 1858229
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4867 SUNSET BLVD W",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 6472239,
+    "long": 1858229
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4867 SUNSET BLVD W",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 6472239,
+    "long": 1858229
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4929 SUNSET BLVD W",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 6471821.8,
+    "long": 1858228.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4959 SUNSET BLVD W",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 6471626.9,
+    "long": 1858228.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4867 SUNSET BLVD W",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 6472239,
+    "long": 1858229
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4867 SUNSET BLVD W",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 6472239,
+    "long": 1858229
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "157 LARCHMONT BLVD N",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "707 SOUTH BERENDO STREET",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "819 SOUTH BERENDO STREET",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1749 WEST 24TH STREET",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1781 WEST 24TH STREET",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1789 WEST 24TH STREET",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2001 WEST 22ND STREET",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1918 WEST 22ND STREET",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2633 SOUTH NORMANDIE AVENUE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2801 ELLENDALE PL",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1236 WEST 22ND STREET",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2362 SCARFF STREET",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2343 SCARFF STREET",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1082 WEST 30TH STREET",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1408 WEST WASHINGTON BOULEVARD",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "18320 CANTARA ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6400685.8,
+    "long": 1902606.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "18320 CANTARA ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6400685.8,
+    "long": 1902606.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "18335 HALSTED ST",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6400597.8,
+    "long": 1911811
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9908 WHITE OAK AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6404574.5,
+    "long": 1913956.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9920 WHITE OAK AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6404574.8,
+    "long": 1913977.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9920 WHITE OAK AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6404574.8,
+    "long": 1913977.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9940 WHITE OAK AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6404576.7,
+    "long": 1914127.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9940 WHITE OAK AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6404576.7,
+    "long": 1914127.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "16262 TUBA ST",
+    "violation_description": "PARKING/FRONT YARD",
+    "fine_amount": 93,
+    "lat": 6414588.6,
+    "long": 1916082.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "18310 CANTARA ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6400802.6,
+    "long": 1902606.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8151 DARBY PL",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6400661.3,
+    "long": 1902350
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9025 LANGDON AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6419672.4,
+    "long": 1907938.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9025 LANGDON AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6419672.4,
+    "long": 1907938.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9025 LANGDON AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6419672.4,
+    "long": 1907938.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9025 LANGDON AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6419672.4,
+    "long": 1907938.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9025 LANGDON AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6419672.4,
+    "long": 1907938.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9040 LANGDON AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6419673.8,
+    "long": 1908045.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9020 LANGDON AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9020 LANGDON AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9020 LANGDON AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9020 LANGDON AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9010 LANGDON AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9000 LANGDON AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6419670.4,
+    "long": 1907778.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9000 LANGDON AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6419670.4,
+    "long": 1907778.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8950 LANGDON AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6419666.2,
+    "long": 1907445.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8950 LANGDON AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6419666.2,
+    "long": 1907445.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2012 WILSHIRE BLVD",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6478422.7,
+    "long": 1843404
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1826 WILSHIRE BLVD",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6479043.6,
+    "long": 1843076.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "333 BOYLSTON ST S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6483495.9,
+    "long": 1842980
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "640 BIXEL ST S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6481971.2,
+    "long": 1841659.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "656 BEAUDRY AV S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "732 GARLAND AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "750 GARLAND AV",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6480790.2,
+    "long": 1840925.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1726 SUNSET BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6483336.6,
+    "long": 1850626.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1710 SUNSET BL",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6483384.2,
+    "long": 1850601.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1725 SUNSET BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6483342.6,
+    "long": 1850623.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1725 SUNSET BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6483342.6,
+    "long": 1850623.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "817 MAIN ST S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6484878.3,
+    "long": 1837963.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "750 GARLAND AVE",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6480790.2,
+    "long": 1840925.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "210 SAN PEDRO ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6488412.7,
+    "long": 1840396.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "334 2ND ST E",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6486832.4,
+    "long": 1841629.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1666 SYCAMORE AVE N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6457731.2,
+    "long": 1859366.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1843 CHEROKEE AVE",
+    "violation_description": "WHITE ZONE",
+    "fine_amount": 58,
+    "lat": 6460326.5,
+    "long": 1860417
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7000 HAWTHORN AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6458312.4,
+    "long": 1859071.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "S/O 1665 SYCAMORE AVE N",
+    "violation_description": "STANDNG IN ALLEY",
+    "fine_amount": 68,
+    "lat": 6457731.2,
+    "long": 1859357.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1666 SYCAMORE AVE N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6457731.2,
+    "long": 1859366.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1666 SYCAMORE AVE N",
+    "violation_description": "DISPLAY OF PLATES",
+    "fine_amount": 25,
+    "lat": 6457731.2,
+    "long": 1859366.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1601 ORANGE DR",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6458315.2,
+    "long": 1858662.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1900 WHITLEY AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6460756.2,
+    "long": 1860832.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1900 WHITLEY AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6460756.2,
+    "long": 1860832.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6600 PADRE TER",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6460756,
+    "long": 1861123.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1801 GRACE AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6461108.6,
+    "long": 1860385.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1801 GRACE AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6461108.6,
+    "long": 1860385.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1800 GRACE AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6461108.6,
+    "long": 1860385.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1832 GRACE AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6461105.4,
+    "long": 1860535.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6376 YUCCA ST",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6462034.7,
+    "long": 1860383.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6208 SANTA MONICA BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1116 MCCADDEN PL N",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6459499.2,
+    "long": 1855676.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1146 MCCADDEN PL N",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6459498.6,
+    "long": 1855884.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6442 SANTA MONICA BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6461774.9,
+    "long": 1855564.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6444 SANTA MONICA BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6461763.4,
+    "long": 1855564.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1240 VINE ST",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6462773.6,
+    "long": 1856603.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "0000 0000",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "0000 0000",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6322 YUCCA ST",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6462507.7,
+    "long": 1860331
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1545 VINE ST",
+    "violation_description": "FIRE HYDRANT",
+    "fine_amount": 68,
+    "lat": 6462772.4,
+    "long": 1858498.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10901 SANTA MONICA BLVD W",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6428962.1,
+    "long": 1840702.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10923 SANTA MONICA BLVD W",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6428713.8,
+    "long": 1840620.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10923 SANTA MONICA BLVD W",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6428713.8,
+    "long": 1840620.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1701 KELTON AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6428068.9,
+    "long": 1841409.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1700 KELTON AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6428068.9,
+    "long": 1841409.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1500 PONTIUS AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6426203.1,
+    "long": 1840902.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9001 HARGIS ST",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6443800.8,
+    "long": 1835682.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2314 THURMAN AVENUE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2126 THURMAN AVENUE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3600 9TH AVENUE",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15 WASHINGTON BOULEVARD",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6420259.2,
+    "long": 1815171.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2800 S SPEEDWAY",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "101 MARKET ST",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6418353.9,
+    "long": 1818459.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "70 WINDWARD AVE E",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6418395.8,
+    "long": 1818157.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11500 TENNESSEE AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6427405.3,
+    "long": 1835345.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "13750 WEIDNER ST",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "12544 OSBORNE ST",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "12675 PIERCE ST",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "12675 PIERCE ST",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "12306 SAN FERNANDO ROAD",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6425116.1,
+    "long": 1929792.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15015 PARTHENIA ST",
+    "violation_description": "BLOCKING DRIVEWAY",
+    "fine_amount": 68,
+    "lat": 6422749.3,
+    "long": 1905723
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15012 PARTHENIA ST",
+    "violation_description": "BLOCKING DRIVEWAY",
+    "fine_amount": 68,
+    "lat": 6422715.4,
+    "long": 1905723.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15012 PARTHENIA ST",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6422715.4,
+    "long": 1905723.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15200 PARTHENIA ST",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6420980.3,
+    "long": 1905775.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15500 PARTHENIA ST",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6419645.2,
+    "long": 1905792.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15500 NORDHOFF ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6419678.7,
+    "long": 1908432.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9050 LANGDON AVE",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6419674.6,
+    "long": 1908112.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9050 LANGDON AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6419674.6,
+    "long": 1908112.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8950 LANGDON AVE",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6419666.2,
+    "long": 1907445.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15500 RAYEN ST",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6419661.9,
+    "long": 1907112.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8700 ORION AVE",
+    "violation_description": "FIRE HYDRANT",
+    "fine_amount": 68,
+    "lat": 6418985,
+    "long": 1905800.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8400 ORION AVE",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6418961,
+    "long": 1903889.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9969 SEPULVEDA BLVD",
+    "violation_description": "STANDNG IN ALLEY",
+    "fine_amount": 68,
+    "lat": 6420441.2,
+    "long": 1914157
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9969 SEPULVEDA BLVD",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6420441.2,
+    "long": 1914157
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "640 BEACHWOOD DR",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6464258,
+    "long": 1852533.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "620 GOWER ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6463955.2,
+    "long": 1852398.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "626 GOWER ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6463955.3,
+    "long": 1852439.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "221 N RAMPART",
+    "violation_description": 22514,
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "637 GOWER ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6463955.3,
+    "long": 1852506.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "726 JUNE ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6460481.2,
+    "long": 1853104.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "746 JUNE ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6460481,
+    "long": 1853238.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6705 WARING AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6459487.2,
+    "long": 1853588.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6700 WARING AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6459501.9,
+    "long": 1853588.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6700 WARING AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6459501.9,
+    "long": 1853588.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "837 CITRUS AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "741 CITRUS AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6458801.9,
+    "long": 1844914.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "712 CITRUS AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6458818.2,
+    "long": 1853006.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "712 CITRUS AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6458818.2,
+    "long": 1853006.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "712 MANSFIELD AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6458477.3,
+    "long": 1845101.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "713 MANSFIELD AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6458477.3,
+    "long": 1845101.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "717 ORANGE DR",
+    "violation_description": "18 IN. CURB/2 WAY",
+    "fine_amount": 63,
+    "lat": 6458113.2,
+    "long": 1845084
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "713 ORANGE DR",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6458121.6,
+    "long": 1845109.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "752 DETROIT ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6457156.6,
+    "long": 1853281.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "713 DETROIT ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "713 DETROIT ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6900 WARING AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6458529,
+    "long": 1853589.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "717 MANSFIELD AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6458469.2,
+    "long": 1845076.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "712 MANSFIELD AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6458477.3,
+    "long": 1845101.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1775 VINE ST",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6462768.1,
+    "long": 1860110.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "712 DETROIT ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6457156.2,
+    "long": 1853013
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7000 WARING AVE",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6458234.1,
+    "long": 1853589
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7900 WILLOUGHBY AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6452227.2,
+    "long": 1854313.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7900 WILLOUGHBY AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6452227.2,
+    "long": 1854313.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "811 SPAULDING AVE N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "835 ALFRED ST N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6448037,
+    "long": 1853858.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "645 LA JOLLA AVE N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6450188.5,
+    "long": 1846188.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "601 LA JOLLA AV N",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6450227.6,
+    "long": 1846467.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7400 MELROSE AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6455352.1,
+    "long": 1852986.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "639 POINSETTIA PL N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6456094.6,
+    "long": 1852587.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "626 FULLER AVE N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6455740.6,
+    "long": 1852514.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "626 FULLER AVE N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6455740.6,
+    "long": 1852514.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "641 POINSETTIA PL N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6456094.6,
+    "long": 1852600.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "641 POINSETTIA PL N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6456094.6,
+    "long": 1852600.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "721 ALFRED ST N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6448035.4,
+    "long": 1853148
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "118 CROFT AVE N",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6448347.3,
+    "long": 1849667.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "100 FLORES ST N",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6449297.2,
+    "long": 1849665.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8300 BEVERLY BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6449618.9,
+    "long": 1850270.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "360 SWEETZER AVE N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6449559.8,
+    "long": 1848631.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "330 SWEETZER AVE N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6449574.3,
+    "long": 1848735.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1800 RONDA DR",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6505892.9,
+    "long": 1845205.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1639 PERRIS ST",
+    "violation_description": "PARKED ON SIDEWALK",
+    "fine_amount": 68,
+    "lat": 6503077.5,
+    "long": 1844656
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1601 SOTO ST N",
+    "violation_description": "18 IN. CURB/2 WAY",
+    "fine_amount": 63,
+    "lat": 6501698.6,
+    "long": 1845173.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5374 HUNTINGTON DR",
+    "violation_description": "STANDNG IN ALLEY",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5374 HUNTINGTON DR",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "214 5TH ST W",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6486047.6,
+    "long": 1839722.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "215 5TH ST W",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6485885.5,
+    "long": 1839847.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "325 5TH ST W",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6485647.9,
+    "long": 1840032.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "703 FLOWER ST S",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "727 FLOWER ST S",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1420 FIGUEROA ST S",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6480170.9,
+    "long": 1836731.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "408 SPRING ST S",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6486419.6,
+    "long": 1840199.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "450 SPRING ST S",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6486246,
+    "long": 1839976.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "814 SPRING ST S",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6484769.4,
+    "long": 1838083.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "100 11TH ST W",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6483461.9,
+    "long": 1836707.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "308 OLYMPIC BLVD W",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1335 FLOWER ST S",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6480707,
+    "long": 1836842.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1335 FLOWER ST S",
+    "violation_description": "DISPLAY OF PLATES",
+    "fine_amount": 25,
+    "lat": 6480707,
+    "long": 1836842.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "400 9TH ST W",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6483445,
+    "long": 1838395.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2000 FIGUEROA ST S",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6478973,
+    "long": 1834492.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2001 FLOWER ST",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6479341.2,
+    "long": 1834291.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2021 FLOWER ST",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6479315.4,
+    "long": 1834236.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2301 FLOWER ST",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6478952.3,
+    "long": 1833468.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2335 FLOWER ST",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2335 FLOWER ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4761 BROADWAY",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4761 BROADWAY",
+    "violation_description": "DISPLAY OF PLATES",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6015 BROADWAY",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6477300,
+    "long": 1817036.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6103 BROADWAY",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6609 BROADWAY",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6477293.9,
+    "long": 1815135.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7511 FIGUEROA ST S",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 6475957.2,
+    "long": 1812178.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5000 KANSAS AVE",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6472635.1,
+    "long": 1821705
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1127 51ST ST W",
+    "violation_description": "PARKED ON SIDEWALK",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2703 FIGUEROA ST S",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6477823.9,
+    "long": 1832341.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "707 49TH ST W",
+    "violation_description": "PARKED ON SIDEWALK",
+    "fine_amount": 68,
+    "lat": 6474938.7,
+    "long": 1822043.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5044 N EAGLE ROCK BLVD",
+    "violation_description": "18 IN. CURB/2 WAY",
+    "fine_amount": 63,
+    "lat": 6496782.7,
+    "long": 1872718.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5000 EAGLE ROCK BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6496683.5,
+    "long": 1872324.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5062 N SHEARIN AVE",
+    "violation_description": "DISPLAY OF PLATES",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2000 COLORADO BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6497940.4,
+    "long": 1873140.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5030 ELLENWOOD DR",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5000 ELLENWOOD DR",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2239 MERTON AVE",
+    "violation_description": "DISPLAY OF PLATES",
+    "fine_amount": 25,
+    "lat": 6496408.6,
+    "long": 1872656.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4900 N EAGLE ROCK BLVD",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3207 GLENDALE BLVD N",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6482678,
+    "long": 1865454
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3101 GLENDALE BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6482049,
+    "long": 1864751.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3101 GLENDALE BL",
+    "violation_description": "DISPLAY OF PLATES",
+    "fine_amount": 25,
+    "lat": 6482049,
+    "long": 1864751.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3101 GLENDALE BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6482049,
+    "long": 1864751.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3101 GLENDALE BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6482049,
+    "long": 1864751.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3101 GLENDALE BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6482049,
+    "long": 1864751.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3119 GLENDALE BLVD N",
+    "violation_description": "DISPLAY OF PLATES",
+    "fine_amount": 25,
+    "lat": 6482160.3,
+    "long": 1864875.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3500 MADERA AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6482777.8,
+    "long": 1864612.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3501 MADERA AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6482777.8,
+    "long": 1864612.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3201 GLENDALE BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6482644.6,
+    "long": 1865416.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3617 EDENHURST AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6482588.2,
+    "long": 1865498.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3969 GLENFELIZ BLVD",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6480545.4,
+    "long": 1867135.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4420 MAIN ST S",
+    "violation_description": "STOP/STAND PROHIBIT",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "900 57TH ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6473965.8,
+    "long": 1819054.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "848 53RD ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6474314.1,
+    "long": 1820382.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "AF856 52ND ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "936 51ST PL W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6473537,
+    "long": 1821046.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4600 MENLO AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6473879.2,
+    "long": 1823110.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4619 ORCHARD AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "856 47TH ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6474229.2,
+    "long": 1822712.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "856 47TH ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6474229.2,
+    "long": 1822712.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "527 46TH ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6475866.9,
+    "long": 1823137.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "505 46TH ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6475965.9,
+    "long": 1823138.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "702 49TH ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "518 50TH ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6475902.9,
+    "long": 1821555.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "861 55TH ST W",
+    "violation_description": "BLOCKING DRIVEWAY",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4055 TRINITY ST",
+    "violation_description": "STANDNG IN ALLEY",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1608 ARGYLE AVE",
+    "violation_description": "WHITE ZONE",
+    "fine_amount": 58,
+    "lat": 6463227.5,
+    "long": 1858915.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "600 SYCAMORE AVE S",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6457806.4,
+    "long": 1846181.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "712 CITRUS AVE S",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6458818.2,
+    "long": 1853006.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "716 CITRUS AVE S",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6458818.3,
+    "long": 1853034
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "743 CITRUS AVE S",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "743 CITRUS AVE S",
+    "violation_description": "DISPLAY OF PLATES",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5300 9TH ST W",
+    "violation_description": "WHITE ZONE",
+    "fine_amount": 58,
+    "lat": 6457074.7,
+    "long": 1843987.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5600 1ST ST W",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6457812.4,
+    "long": 1849336.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3863 6TH ST W",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6468642.2,
+    "long": 1845643
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "650 KINGSLEY DR S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6469784.3,
+    "long": 1852685.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3000 LEEWARD AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6474107.1,
+    "long": 1843873.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3000 LEEWARD AVE",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6474107.1,
+    "long": 1843873.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "406 ALEXANDRIA AVE N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6471370.5,
+    "long": 1850871.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "666 KENMORE AVE N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6471823.6,
+    "long": 1845208.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "666 KENMORE AVE N",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6471823.6,
+    "long": 1845208.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4428 LOCKWOOD AVE",
+    "violation_description": "BLOCKING DRIVEWAY",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1010 BERENDO ST N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6472687.5,
+    "long": 1855111.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "800 E COMMERCIAL ST",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6491569.9,
+    "long": 1841628.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1100 W ALPINE ST",
+    "violation_description": "PARKED IN CROSSWALK",
+    "fine_amount": 68,
+    "lat": 6486688.4,
+    "long": 1846529.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1200 E 5TH ST",
+    "violation_description": "STOP/STAND PROHIBIT",
+    "fine_amount": 93,
+    "lat": 6490108.3,
+    "long": 1837627.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "500 S SEATON ST",
+    "violation_description": "18 IN/CURB/COMM VEH",
+    "fine_amount": 63,
+    "lat": 6489751.6,
+    "long": 1837577
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2101 E 7TH PL",
+    "violation_description": "STOP/STAND PROHIBIT",
+    "fine_amount": 93,
+    "lat": 6491977.4,
+    "long": 1834674.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "701 JACKSON ST",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6490969.4,
+    "long": 1841063.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1200 S LAWRENCE ST",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1201 S LAWRENCE ST",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1500 E BAY ST",
+    "violation_description": "FIRE HYDRANT",
+    "fine_amount": 68,
+    "lat": 6489310.9,
+    "long": 1834038.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "600 2ND ST E",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6485974.6,
+    "long": 1842299.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1340 E 6TH ST",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6490631,
+    "long": 1836374.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "600 2ND ST E",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6485974.6,
+    "long": 1842299.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "700 SPRING ST N",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6489617.4,
+    "long": 1844243.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "800 YALE ST",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6488734.1,
+    "long": 1845465.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1000 WILSHIRE BLVD",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6482460.9,
+    "long": 1841221.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "900 BEACON ST",
+    "violation_description": "DOUBLE PARKING",
+    "fine_amount": 68,
+    "lat": 6478573.1,
+    "long": 1841187.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "600 BURLINGTON AVE N",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6479446.3,
+    "long": 1843607.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "602 WESTLAKE AVE",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6478772.8,
+    "long": 1843939.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "619 WESTLAKE AVE",
+    "violation_description": "WHITE ZONE",
+    "fine_amount": 58,
+    "lat": 6478666.4,
+    "long": 1843744.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1221 3RD ST",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6483149.7,
+    "long": 1843336.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "800 CESAR E CHAVEZ AVE",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6487575.4,
+    "long": 1844761.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "702 SPRING ST N",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6489623.3,
+    "long": 1844258.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "600 COLLEGE ST",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6488994.2,
+    "long": 1846080.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "500 ORD ST",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6488833.8,
+    "long": 1844575.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "700 YALE ST",
+    "violation_description": "DOUBLE PARKING",
+    "fine_amount": 68,
+    "lat": 6488430.7,
+    "long": 1844746.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5200 SUNSET BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6469891.1,
+    "long": 1858227.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6720 LEXINGTON AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6459701.7,
+    "long": 1856244.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1207 CHEROKEE AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6460173.6,
+    "long": 1856285.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1215 CHEROKEE AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6460173.5,
+    "long": 1856338.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6608 LEXINGTON AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6460688.6,
+    "long": 1856244.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1546 CASSIL PL",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6460611.9,
+    "long": 1858510.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1554 CASSIL PL",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6460611.8,
+    "long": 1858563
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1400 DETROIT ST N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6457161.9,
+    "long": 1857555
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1400 DETROIT ST N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6457161.9,
+    "long": 1857555
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7160 DE LONGPRE AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6457050.8,
+    "long": 1857556.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1300 ALTA VISTA BLVD N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6456561.5,
+    "long": 1856934.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1420 ALTA VISTA BLVD N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6456595.2,
+    "long": 1857711.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1440 ALTA VISTA BLVD N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6456594.9,
+    "long": 1857842.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1448 ALTA VISTA BLVD N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6456594.7,
+    "long": 1857894.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1448 ALTA VISTA BLVD N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6456594.7,
+    "long": 1857894.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1427 POINSETTIA PL N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6456207.5,
+    "long": 1857758
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1342 FULLER AVE N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6455840.5,
+    "long": 1857206.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1456 FULLER AVE N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1423 MARTEL AVE N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6455508.4,
+    "long": 1857740.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1353 MARTEL AVE N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6455509.4,
+    "long": 1857285.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1348 VISTA ST N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6455178,
+    "long": 1857233.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7100 FOUNTAIN AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7057 LEXINGTON AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6457789.2,
+    "long": 1856246.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1134 SYCAMORE AVE N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6457880.7,
+    "long": 1855802.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1212 SYCAMORE AVE N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6457879.3,
+    "long": 1856324.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1137 ORANGE DR N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6458238.1,
+    "long": 1855732.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1242 MANSFIELD AVE N",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1700 VINE ST",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6462769.9,
+    "long": 1859525.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1701 LAS PALMAS AV N",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6459906.9,
+    "long": 1859512.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1701 WHITLEY AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6460757,
+    "long": 1859516
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1700 VINE ST",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6462769.9,
+    "long": 1859525.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1600 IVAR AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6462312.7,
+    "long": 1858856.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2760 SAN MARINO STREET",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "900 2ND ST W",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6484996.4,
+    "long": 1843058
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "701 UNION AV S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6479536.5,
+    "long": 1842106
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1601 OLYMPIC BLVD W",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6478611.9,
+    "long": 1840398.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1300 BONNIE BRAE ST S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6476868.7,
+    "long": 1839240.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1300 BURLINGTON AV S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6477172.4,
+    "long": 1839074.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1300 BURLINGTON AV S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6477172.4,
+    "long": 1839074.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "601 BONNIE BRAE ST S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6479116.1,
+    "long": 1843785.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "444 LUCAS AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "444 LUCAS AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "444 LUCAS AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "402 LUCAS AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "402 LUCAS AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1201 4TH ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6483404.9,
+    "long": 1842804
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "509 WESTLAKE AVE S",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6479089.7,
+    "long": 1844532.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "521 WESTLAKE AVE S",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6479049.2,
+    "long": 1844456.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "601 SAINT PAUL AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6482649.4,
+    "long": 1841965.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1101 W MIRAMAR ST",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1215 W MIRAMAR ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6483189.3,
+    "long": 1843626.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1215 W MIRAMAR ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6483189.3,
+    "long": 1843626.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "360 APX OLIVE ST S",
+    "violation_description": "STOP/STAND PROHIBIT",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "360 APX OLIVE ST S",
+    "violation_description": "STOP/STAND PROHIBIT",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "514 SPRING ST S",
+    "violation_description": "STOP/STAND PROHIBIT",
+    "fine_amount": 93,
+    "lat": 6485989.6,
+    "long": 1839647.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "215 5TH ST W",
+    "violation_description": "STOP/STAND PROHIBIT",
+    "fine_amount": 93,
+    "lat": 6485885.5,
+    "long": 1839847.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "448 HILL ST S",
+    "violation_description": "STOP/STAND PROHIBIT",
+    "fine_amount": 93,
+    "lat": 6485606.4,
+    "long": 1840496
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1168 BELLEVUE AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6485615,
+    "long": 1846411
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1016 APX WEST KENSINGTON ROAD",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1026 A/F LAGUNA AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "800 A/F LAGUNA AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2114 VALENTINE ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1467 A/F LEMOYNE ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1908 LEMOYNE ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1881 APX PRESTON AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6482170.3,
+    "long": 1855273.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "993 BROADWAY N",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6483710.9,
+    "long": 1837398.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1044 A/F WEST EDGEWARE ROAD",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "857  A/F YALE ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1800 S/O MONTANA ST",
+    "violation_description": "BLOCKING DRIVEWAY",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10600 ESTHER AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6434275.5,
+    "long": 1837246.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2400 PATRICIA AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6434722.5,
+    "long": 1839081
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2450 PATRICIA AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6435033,
+    "long": 1838625.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1152 ELM DR",
+    "violation_description": "YELLOW ZONE",
+    "fine_amount": 58,
+    "lat": 6442053.7,
+    "long": 1843037.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6041 CADILLAC AVE",
+    "violation_description": "DISABLED PARKING/NO",
+    "fine_amount": 363,
+    "lat": 6448020.9,
+    "long": 1836302.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1401 ORANGE GROVE AV S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6450954.3,
+    "long": 1841245.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1109 SWALL DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6444833.6,
+    "long": 1843326.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1137 SWALL DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6444843.1,
+    "long": 1843125
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1151 SWALL DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1116 ELM DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6442055.1,
+    "long": 1843283.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1144 GLENVILLE DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1144 GLENVILLE DR",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1144 WETHERLY DR S",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6443891.3,
+    "long": 1843087.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1415 REXFORD DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6442241.7,
+    "long": 1842542.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1415 REXFORD DR",
+    "violation_description": "DISPLAY OF PLATES",
+    "fine_amount": 25,
+    "lat": 6442241.7,
+    "long": 1842542.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1417 CREST DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6444324.2,
+    "long": 1842514
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9049 ALCOTT ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6443888.5,
+    "long": 1842358.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1120 LAPEER DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "700 SPAULDING AVE S",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6453290.3,
+    "long": 1845324
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5774 8TH ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5774 8TH ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8946 PICO BL W",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6444423.2,
+    "long": 1842721.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5818 PICO BL W",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6450802,
+    "long": 1841281.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "16600 MARQUEZ AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6397152.8,
+    "long": 1840366.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "9101 SEPULVEDA WESTWAY",
+    "violation_description": "NO STOP/STAND",
+    "fine_amount": 93,
+    "lat": 6440914,
+    "long": 1806068.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7730 ISIS AVENUE",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8427 WINSFORD AVENUE",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "7707 EMERSON AVENUE",
+    "violation_description": "18 IN/CURB/COMM VEH",
+    "fine_amount": 63,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3287 KEESHEN DR",
+    "violation_description": "EXCEED 72HRS-ST",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1100 MCCLELLAN DR",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6419178.3,
+    "long": 1838700.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11921 AYRES AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6425794,
+    "long": 1833311.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2441 WESTGATE AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6426027.3,
+    "long": 1833319.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2495 BARRINGTON AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6427236.8,
+    "long": 1833245.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2537 BARRY AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6427671.7,
+    "long": 1833173.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "200 HAMPTON DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6416642.4,
+    "long": 1822025.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "358 HAMPTON DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "718 HAMPTON DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6417787.8,
+    "long": 1820598.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1118 HAMPTON DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1416 CABRILLO AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6420087.3,
+    "long": 1819138.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1615 ANDALUSIA AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6419989.6,
+    "long": 1818848.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "325 GRAND BLVD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6419310.6,
+    "long": 1818393.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "315 GRAND BLVD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6419283.6,
+    "long": 1818391.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "222 9TH ST E",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6483957.5,
+    "long": 1837992.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "416 9TH ST E",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6483392.2,
+    "long": 1838436.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "500 HOPE ST S",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6484216.2,
+    "long": 1840734.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "640 MAIN ST S",
+    "violation_description": "WHITE ZONE",
+    "fine_amount": 58,
+    "lat": 6485777.2,
+    "long": 1838751.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "500 MAIN ST S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6486347.1,
+    "long": 1839427.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "101 ORD ST",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6489948.5,
+    "long": 1844100.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "401 COTTAGE HOME",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6490381.3,
+    "long": 1846952.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "700 HILL ST N",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6484585.5,
+    "long": 1839186.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "300 MAIN ST S",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6487192.5,
+    "long": 1840509.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "301 HILL ST S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6487612.4,
+    "long": 1843031.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2309 CENTRAL AVE S",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6484792.6,
+    "long": 1830126.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2509 CENTRAL AVE S",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6484522.5,
+    "long": 1829624
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2513 CENTRAL AVE S",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2707 CENTRAL AVE S",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6484279.2,
+    "long": 1828914.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2707 CENTRAL AVE S",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6484279.2,
+    "long": 1828914.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2707 CENTRAL AVE S",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6484279.2,
+    "long": 1828914.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3209 CENTRAL AVE S",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6483930.6,
+    "long": 1827785.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1075 33RD ST E",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3700 HILL ST S",
+    "violation_description": "STOP/STAND PROHIBIT",
+    "fine_amount": 93,
+    "lat": 6477708.3,
+    "long": 1828418.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2811 OLIVE ST S",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6479072.3,
+    "long": 1831290.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2811 OLIVE ST S",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6479072.3,
+    "long": 1831290.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2821 OLIVE ST S",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6479046.6,
+    "long": 1831240.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2828 GRAND AVE S",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6478687.5,
+    "long": 1831228.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2828 GRAND AVE S",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6478687.5,
+    "long": 1831228.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "326 23RD ST W",
+    "violation_description": "FIRE HYDRANT",
+    "fine_amount": 68,
+    "lat": 6479571.7,
+    "long": 1833131.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1130 GRAND AVE S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6482179.4,
+    "long": 1837451.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1100 HOPE ST S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6481976.5,
+    "long": 1837862.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1147 HOPE ST S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6481620.7,
+    "long": 1837406.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1139 HOPE ST S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6481682.6,
+    "long": 1837486.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1501 HOPE ST S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6480663.2,
+    "long": 1835893
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1400 HOPE ST S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6480919.6,
+    "long": 1836371.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1333 HOPE ST S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6481029.5,
+    "long": 1836576.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "501 20TH ST W",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6474099,
+    "long": 1722813.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "501 20TH ST W",
+    "violation_description": "DOUBLE PARKING",
+    "fine_amount": 68,
+    "lat": 6474099,
+    "long": 1722813.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "520 20TH ST W",
+    "violation_description": "STANDNG IN ALLEY",
+    "fine_amount": 68,
+    "lat": 6473961.2,
+    "long": 1722815.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "531 20TH ST W",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2500 7TH ST W",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6476542,
+    "long": 1843742.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2500 7TH ST W",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6476542,
+    "long": 1843742.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "601 ALEXANDRIA AVE S",
+    "violation_description": "YELLOW ZONE",
+    "fine_amount": 58,
+    "lat": 6471412.4,
+    "long": 1852080.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "651 MARIPOSA AV S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6471048.5,
+    "long": 1845207.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3301 7TH ST W",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6470813.4,
+    "long": 1844253.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "700 NORMANDIE AVE S",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6470692.1,
+    "long": 1852925.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3301 7TH ST W",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6470813.4,
+    "long": 1844253.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "600 HOBART BL S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6469083.4,
+    "long": 1852250.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3401 7TH ST W",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6470529.3,
+    "long": 1844252.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "601 COMMONWEALTH AV S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6475150.3,
+    "long": 1845690.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "601 COMMONWEALTH AV S",
+    "violation_description": "OUTSIDE LINES/METER",
+    "fine_amount": 58,
+    "lat": 6475150.3,
+    "long": 1845690.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "650 KINGSLEY DR S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6469784.3,
+    "long": 1852685.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "651 ARDMORE AV S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6470199.5,
+    "long": 1844985.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "600 SERRANO AV S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6468733.3,
+    "long": 1852248.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "600 SERRANO AV S",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6468733.3,
+    "long": 1852248.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "651 KINGSLEY DR S",
+    "violation_description": "OUTSIDE LINES/METER",
+    "fine_amount": 58,
+    "lat": 6469784.6,
+    "long": 1852594.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "650 KINGSLEY DR S",
+    "violation_description": "OUTSIDE LINES/METER",
+    "fine_amount": 58,
+    "lat": 6469784.3,
+    "long": 1852685.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3551 WILSHIRE BLVD",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 6470189.1,
+    "long": 1844985.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3700 WILSHIRE BLVD",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 6468807.2,
+    "long": 1844980.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3150 WILSHIRE BLVD",
+    "violation_description": "NO STOPPING/ANTI-GRI",
+    "fine_amount": 163,
+    "lat": 6473649.2,
+    "long": 1844999.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1537 WOOSTER ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6445633.9,
+    "long": 1841311.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1832 SHENANDOAH ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6445567.5,
+    "long": 1839062.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1520 SHENANDOAH ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1823 BEDFORD ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1606 SHERBOURNE DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6446521.6,
+    "long": 1840680
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1523 HOLT AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1855 HOLT AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6446445.8,
+    "long": 1838664
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1859 HOLT AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6446432.4,
+    "long": 1838639.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1641 GARTH AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8870 18TH ST W",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1634 PREUSS ROAD",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6445219.4,
+    "long": 1840741.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8505 PICKFORD ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "8505 CASHIO ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6447696.3,
+    "long": 1841052.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1268 CAMDEN DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6440545,
+    "long": 1842741.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1260 CAMDEN DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6440487.7,
+    "long": 1842781.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1249 DANIELS DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6440157.9,
+    "long": 1842690.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1212 CASTILLO ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "480 BEDFORD DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1270 BEDFORD DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6439022.4,
+    "long": 1842512.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1258 BEDFORD DR",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6438994.1,
+    "long": 1842609.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1344 OGDEN DR S",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1338 OGDEN DR S",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1338 OGDEN DR S",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1258 OGDEN DR S",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1020 OGDEN DR S",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1380 MASSELIN AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6453174.8,
+    "long": 1840646.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1344 CURSON AVE S",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6452746.5,
+    "long": 1841155.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1217 STANLEY AVE S",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1342 SPAULDING AVE S",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6452077.5,
+    "long": 1841389.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1338 SPAULDING AVE S",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1208 SPAULDING AVE S",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1253 GENESEE AVE S",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "501 ARDMORE AV S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6470313.6,
+    "long": 1851603
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3701 7TH ST W",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6468807,
+    "long": 1844245
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "300 ROBERTSON BL S",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6445448.3,
+    "long": 1849382.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "207 ARDMORE AVE S",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6470246.1,
+    "long": 1849950.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "223 EDGEMONT ST N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6471573.6,
+    "long": 1849999.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "310 HELIOTROPE DR",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6472164.5,
+    "long": 1850335.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "207 MARIPOSA AVE N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6470996.3,
+    "long": 1849938
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "212 MARIPOSA AVE N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6470996.3,
+    "long": 1849960.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "222 MARIPOSA AVE N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6470996.3,
+    "long": 1849997.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "213 ALEXANDRIA AVE N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6471324.7,
+    "long": 1849961.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3770 COUNCIL ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6472422.9,
+    "long": 1849618.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "222 EDGEMONT ST N",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6471573.6,
+    "long": 1849993.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "223 EDGEMONT ST N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6471573.6,
+    "long": 1849999.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5014 MARATHON ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6468417.6,
+    "long": 1853272.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4962 MARATHON ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6468738.6,
+    "long": 1853246.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4962 MARATHON ST",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6468738.6,
+    "long": 1853246.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "850 HOBART BLVD N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6469184.2,
+    "long": 1843177.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "820 KINGSLEY DR N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6469868.8,
+    "long": 1843379.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "816 HARVARD BLVD N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "725 HARVARD BLVD N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6469538.8,
+    "long": 1844067.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "722 HARVARD BLVD N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "711 HARVARD BLVD N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6469538.8,
+    "long": 1844172.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4337 BURNS AVE",
+    "violation_description": "PARKED ON SIDEWALK",
+    "fine_amount": 68,
+    "lat": 6474541.2,
+    "long": 1854416.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4330 BURNS AVE",
+    "violation_description": "FIRE HYDRANT",
+    "fine_amount": 68,
+    "lat": 6474585.2,
+    "long": 1854416.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4420 VAN HORNE AVE",
+    "violation_description": "DOUBLE PARKING",
+    "fine_amount": 68,
+    "lat": 6510358.4,
+    "long": 1857840.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2911 ALTURA ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6497583,
+    "long": 1849918.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2802 CAMULOS PL",
+    "violation_description": "FIRE HYDRANT",
+    "fine_amount": 68,
+    "lat": 6496322.1,
+    "long": 1831676.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2701 GLENN AVE",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6495757.6,
+    "long": 1832371.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2756 GLENN AVE",
+    "violation_description": "FIRE HYDRANT",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3436 ATLANTIC ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3438 ATLANTIC ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3500 ATLANTIC ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6500923.5,
+    "long": 1831037.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3425 BESWICK ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3249 OLYMPIC BLVD E",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6498185,
+    "long": 1829614.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3221 OLYMPIC BLVD E",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5056 ALHAMBRA AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5156 ALHAMBRA AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6509147.2,
+    "long": 1848888.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5422 ALHAMBRA AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3965 VIA MARISOL",
+    "violation_description": "STOP/STAND PROHIBIT",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1757 ORANGE DR N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6458210.8,
+    "long": 1860047
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1764 ORANGE DR N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6458210.8,
+    "long": 1860117
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1737 ORANGE DR N",
+    "violation_description": "PREFERENTIAL PARKING",
+    "fine_amount": 68,
+    "lat": 6458211,
+    "long": 1859855.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1737 ORANGE DR N",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6458211,
+    "long": 1859855.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1701 EL CERRITO PL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6457318,
+    "long": 1859535.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1700 EL CERRITO PL",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6457318,
+    "long": 1859535.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1700 SYCAMORE AV N",
+    "violation_description": "OUTSIDE LINES/METER",
+    "fine_amount": 58,
+    "lat": 6457731.1,
+    "long": 1859509.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1701 SYCAMORE AV N",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6457731.1,
+    "long": 1859509.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1664 SYCAMORE AV N",
+    "violation_description": "DISPLAY OF PLATES",
+    "fine_amount": 25,
+    "lat": 6457731.2,
+    "long": 1859357.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1701 MCCADDEN PL N",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6459518.8,
+    "long": 1859510.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1501 LAS PALMAS AV N",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6459850.1,
+    "long": 1858208.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6666 HOLLYWOOD BLVD",
+    "violation_description": "DISPLAY OF PLATES",
+    "fine_amount": 25,
+    "lat": 6460149.1,
+    "long": 1859513.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6626 HOLLYWOOD BLVD",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6460498.4,
+    "long": 1859514.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1600 WILCOX AV",
+    "violation_description": "DISPLAY OF PLATES",
+    "fine_amount": 25,
+    "lat": 6461453.8,
+    "long": 1857762.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6513 HOLLYWOOD BLVD",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6461319,
+    "long": 1859518.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1500 IVAR AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6462120.7,
+    "long": 1858205.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1500 IVAR AV",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6462120.7,
+    "long": 1858205.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6334 HOLLYWOOD BLVD",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6462423.2,
+    "long": 1859523.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3345 ROWENA AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6477417.6,
+    "long": 1862820.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4317 AVOCADO ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6475572.6,
+    "long": 1863051.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1710 GARFIELD PL",
+    "violation_description": "YELLOW ZONE",
+    "fine_amount": 58,
+    "lat": 6467605.7,
+    "long": 1859614
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4332 SUNSET BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6475877.6,
+    "long": 1857122.5
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4312 SUNSET BL",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6475982.9,
+    "long": 1857009.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "966 VENDOME ST N",
+    "violation_description": "DOUBLE PARKING",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "803 VENDOME ST N",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "514 BENTON WAY N",
+    "violation_description": "NO PARKING",
+    "fine_amount": 73,
+    "lat": 6476422,
+    "long": 1845755.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "514 BENTON WAY N",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6476422,
+    "long": 1845755.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3425 BELLEVUE AVE",
+    "violation_description": "DOUBLE PARKING",
+    "fine_amount": 68,
+    "lat": 6476471.3,
+    "long": 1851368.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4648 RUSSELL AV",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6473676.2,
+    "long": 1860540.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1845 GARFIELD PL",
+    "violation_description": "DOUBLE PARKING",
+    "fine_amount": 68,
+    "lat": 6467604,
+    "long": 1860514.2
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1801 GARFIELD PL",
+    "violation_description": "DOUBLE PARKING",
+    "fine_amount": 68,
+    "lat": 6467604.6,
+    "long": 1860218.7
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5429 HAROLD WAY",
+    "violation_description": "18 IN. CURB/2 WAY",
+    "fine_amount": 63,
+    "lat": 6468392.4,
+    "long": 1858674.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5429 HAROLD WAY",
+    "violation_description": "FIRE HYDRANT",
+    "fine_amount": 68,
+    "lat": 6468392.4,
+    "long": 1858674.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5420 HAROLD WAY",
+    "violation_description": "18 IN. CURB/2 WAY",
+    "fine_amount": 63,
+    "lat": 6468432.1,
+    "long": 1858674.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1316 ALLESANDRO ST",
+    "violation_description": "STANDNG IN ALLEY",
+    "fine_amount": 68,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1408 ANGELUS AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3025 SUNSET BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6478781.1,
+    "long": 1852825.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3025 SUNSET BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6478781.1,
+    "long": 1852825.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3321 SUNSET BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6478268.7,
+    "long": 1854045
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "3611 SUNSET BL",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6477814.7,
+    "long": 1855188.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1769 HILLHURST AVE",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6474660.5,
+    "long": 1860004.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15644 CELTIC ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6418646.3,
+    "long": 1920662.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15622 INDEX ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11201 BLUCHER AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "15639 SIMONDS ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10625 PETIT AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6411225.7,
+    "long": 1918662
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10533 PETIT AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6411218.7,
+    "long": 1918117.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10669 GENESTA AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6409247.6,
+    "long": 1918850.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10620 AMESTOY AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6408582.4,
+    "long": 1918436.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10600 BLK ALDEA AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10627 ALDEA AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "17168 GERMAIN ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "16950 BLACKHAWK ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6410134.6,
+    "long": 1916979.3
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "16700 BLK SAN JOSE ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "16848 HIAWATHA ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 6410795.4,
+    "long": 1917148.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "AF10947 COLLETT AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10343 GAVIOTA AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10411 COLLETT AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10315 GOTHIC AVE",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "16348 BERMUDA ST",
+    "violation_description": "NO PARK/STREET CLEAN",
+    "fine_amount": 73,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "10126 LEV AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "12157 VANOWEN ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6731 BELLINGHAM AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6639 BEN AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6229 BEN AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6254 BEN AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6502 BEN AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11900 HART ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6800 GENTRY AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6928 GENTRY AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6928 GENTRY AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6800 HINDS AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6800 HINDS AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6800 HINDS AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6900 HINDS AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6850 MORELLA AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11737 HART ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11751 HART ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11817 HART ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "12017 HART ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6935 AGNES AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6853 AGNES AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6843 AGNES AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6843 AGNES AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6432 AGNES AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6848 AGNES AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11000 OTSEGO ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11033 HARTSOOK ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11123 HARTSOOK ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "4800 BAKMAN AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "11130 HUSTON ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "5000 KLUMP AVE",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6300 VINELAND AVE",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "6303 VICLAND PL",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 99999,
+    "long": 99999
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1825 CESAR E CHAVEZ AVE E",
+    "violation_description": "NO STOP/STANDING",
+    "fine_amount": 93,
+    "lat": 6496213,
+    "long": 1840835.9
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2001 CESAR E CHAVEZ AV E",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6497055.7,
+    "long": 1840379.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "200 BREED ST N",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6497476.7,
+    "long": 1838071.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "201 BREED ST N",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6497476.7,
+    "long": 1838071.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "201 BREED ST N",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6497476.7,
+    "long": 1838071.4
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1724 CESAR E CHAVEZ AVE E",
+    "violation_description": "RED ZONE",
+    "fine_amount": 93,
+    "lat": 6495846,
+    "long": 1841034.6
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "422 ECHANDIA ST",
+    "violation_description": "PARKED OVER TIME LIM",
+    "fine_amount": 58,
+    "lat": 6495245.1,
+    "long": 1841033.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "422 ECHANDIA ST",
+    "violation_description": "PARKED OVER TIME LIM",
+    "fine_amount": 58,
+    "lat": 6495245.1,
+    "long": 1841033.1
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1605 NEW JERSEY ST",
+    "violation_description": "PARKED OVER TIME LIM",
+    "fine_amount": 58,
+    "lat": 6495220.9,
+    "long": 1840951.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1605 NEW JERSEY ST",
+    "violation_description": "DISPLAY OF TABS",
+    "fine_amount": 25,
+    "lat": 6495220.9,
+    "long": 1840951.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1605 NEW JERSEY ST",
+    "violation_description": "PARKED OVER TIME LIM",
+    "fine_amount": 58,
+    "lat": 6495220.9,
+    "long": 1840951.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "1605 NEW JERSEY ST",
+    "violation_description": "PARKED OVER TIME LIM",
+    "fine_amount": 58,
+    "lat": 6495220.9,
+    "long": 1840951.8
+  },
+  {
+    "issue_date": "1/4/16",
+    "address": "2000 CHARLOTTE ST",
+    "violation_description": "METER EXP.",
+    "fine_amount": 63,
+    "lat": 6499088.6,
+    "long": 1843921.7
+  }
+]
