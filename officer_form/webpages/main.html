@@ -16,15 +16,17 @@
 		</script>
 		<link rel="stylesheet" type="text/css" href="allStyles.css">
 	</head>
-	<body>
+	<body class="mainPageWrapper">
 		<div id=title class="title">
-			Alki
+			<img src="/assets/alki_logo.png" class="mainPageLogo" />
 		</div>
-		<button onclick="redirectToForm()">
-			infraction entry
-		</button>
-		<button onclick="redirectToAnalytics()">
-			infraction analytics
-		</button>
+		<div class="mainPageButtons">
+			<button class="mainPageButton" onclick="redirectToForm()">
+				infraction entry
+			</button>
+			<button class="mainPageButton" onclick="redirectToAnalytics()">
+				infraction analytics
+			</button>
+		</div>
 	</body>
 </html>
