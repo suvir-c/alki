@@ -13,6 +13,43 @@ app.use(bodyParser.json())
 app.post('/infractions', (req, res) => {
 	var writer = csvWriter({sendHeaders: false});
 	writer.pipe(fs.createWriteStream(path.join(__dirname, '.data', 'infractions.csv'), {flags: 'a'}));
+	var infractionObj = {
+		table: []
+	};
+	var infractionJson = JSON.stringify(infractionObj);
+	fs.readFile('../map/dashboard/src/data/officer_data.json', 'utf8', function readFileCallback(err, data) {
+		if(err) {
+			console.log(err);
+		} else {
+			infractionObj = JSON.parse(data);
+			console.log(req);
+			console.log(req.body);
+			console.log(req.body.latitude);
+			infractionObj.push({
+				latitude: req.body.latitude,
+				longitude: req.body.longitude,
+				weather: req.body.weather,
+				timeOfDay: req.body.time,
+				roadConditions: req.body.roadConditions,
+				speeding: req.body.speeding,
+				speedLimit: req.body.speedLimit,
+				dui: req.body.dui,
+				bac: req.body.bac,
+				driverReason: req.body.driverReason
+			});
+			infractionJson = JSON.stringify(infractionObj);
+			fs.writeFile('../map/dashboard/src/data/officer_data.json', infractionJson, 'utf8', function writeFileCallback(err, data) {
+				if(!err) {
+					console.log('data logged successfully!');
+				} else {
+					console.log('write failed! error:');
+					console.log(fail);
+				}
+
+			});
+		}
+	});
+	/*
 	writer.write({	latitude: req.body.latitude, 
 			longitude: req.body.longitude, 
 			weather: req.body.weather,
@@ -27,6 +64,7 @@ app.post('/infractions', (req, res) => {
 	writer.end();
 	console.log(req.body);
 	//res.sendStatus(200);
+	*/
 	res.sendFile(path.join(__dirname + '/webpages/driverEntry.html'));
 });
 

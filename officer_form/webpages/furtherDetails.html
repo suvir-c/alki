@@ -9,13 +9,18 @@
 		<link rel="stylesheet" type="text/css" href="./allStyles.css">
 	</head>
 	<body>
-		<form method="POST" action="http://localhost:3000/infractions" onsubmit="redirectToDriverEntry()" name="detailsForm">
-			<label>latitude</label><input type="text" name="latitude"></input><br />
-			<label>longitude</label><input type="text" name="longitude"></input><br />
-			<label>time</label><input type="text" name="time"></input><br />
-			<label>road conditions</label><input type="text" name="road"></input><br />
-			<label>weather</label><input type="text" name="weather"></input><br />
-			<label>driver explanation for infraction</label><input type="text" class="long-text" name="driverExplanation"></input><br />
+		<form method="post" action="http://localhost:3000/infractions" onsubmit="redirectToDriverEntry()" name="detailsForm">
+			<label>latitude</label><input type="text" id="latitude" name="latitude"></input><br />
+			<label>longitude</label><input type="text" id="longitude" name="longitude"></input><br />
+			<label>weather</label><input type="text" id="weather" name="weather"></input><br />
+			<label>time of day</label><input type="text" id="timeOfDay" name="timeOfDay"></input><br />
+			<label>road conditions</label><input type="text" id="roadConditions" name="roadConditions"></input><br />
+			<label>speeding?</label><input type="text" id="speeding" name="speeding"></input><br />
+			<label>speed limit</label><input type="text" id="speedLimit" name="speedLimit"></input><br />
+			<label>driving under the influence?</label><input type="text" id="dui" name="dui"></input><br />
+			<label>blood alcohol content</label><input type="text" id="bac" name="bac"></input><br />
+			<label>driver explanation for infraction</label><input type="text" class="long-text" id="driverReason" name="driverReason"></input><br />
+		<!--	<input type="submit" value="next"> -->
 			<button type="submit" class="bottomButton">
 				next
 				<img src="../assets/grapefruit_arrow.png" class="ellipse"/>	
