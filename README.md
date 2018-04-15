@@ -5,7 +5,7 @@ Alki, BCG DV Hacks Mobility 2018
 Amulya Bhattarai, Suvir Copparam, Collin Tran
 
 ### Project Description:
-Alki is an effort to rethink the pipeline for collecting, tracking, and using the huge amounts of transportation data generated everyday in urban metropolitan areas. After identifying various pain points in government data collection done daily by police officers in the Los Angeles area, we defined two aspects to our product to build and sell to municipal governments: collection and visualization.
+Alki is an effort to rethink the pipeline for collecting, tracking, and using the huge amounts of transportation data generated everyday in large urban areas. After identifying various pain points in government data collection done daily by police officers in the Los Angeles area, we defined two aspects to our product to build and sell to municipal governments: collection and visualization.
 
 Reviewing the current pipeline for how police officers report on the encounters they handle on a day-to-day basis in the LA area, we found that the current report mechanisms are quite primitive and lack simplicity. Even worse, once these officers take the time to submit information on each encounter they handle, whether its issuing a parking ticket, or reporting to the scene of a life-harming car accident, the data is ciloed into various corners of government services. The first part of our project aims to improve the data collection and entry experience for police officers and initialize an effort to improve infrastructure around these issues in the near future. A full breakdown can be found under the "Police Officer Data Input Form" section.
 
