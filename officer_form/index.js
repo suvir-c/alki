@@ -50,6 +50,9 @@ app.get('/assets/blue_ellipse.png', (req, res) => {
 	res.sendFile(path.join(__dirname, '/assets/blue_ellipse.png'));
 });
 
+app.get('/assets/alki_logo.png', (req, res) => {
+	res.sendFile(path.join(__dirname, '/assets/alki_logo.png'));
+});
 app.get('/download/:secret', (req, res) => {
 	if(req.params.secret === process.env.SECRET) {
 		res.sendFile(path.join(__dirname, '.data', 'infractions.csv'));
