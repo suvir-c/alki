@@ -62,3 +62,6 @@ data_processing/data
 
 # node_modules from form app
 officer_form/node_modules
+
+# csv database
+officer_form/.data
