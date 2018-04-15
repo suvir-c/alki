@@ -3,25 +3,38 @@
 	<head>
 		<script>
 			function redirectToDriverEntry() {
+				console.log('yo');
+				console.log(document.getElementById("furtherInfoForm").latitude);
+				document.getElementById("furtherInfoForm").submit();
 				window.location.replace("http://localhost:3000/driverEntry");
 			}	
+			function sendData() {
+				console.log('sending data');
+				console.log(document.getElementById("furtherInfoForm"));
+				let response = await fetch('/infractions', {
+					headers: {"Content-Type": 'application/json'},
+					method: 'post',
+					body: JSON.stringify(document.getElementById("furtherInfoForm"));	
+				});
+			}
 		</script>
 		<link rel="stylesheet" type="text/css" href="./allStyles.css">
 	</head>
 	<body>
-		<form method="post" action="http://localhost:3000/infractions" onsubmit="redirectToDriverEntry()" name="detailsForm">
-			<label>latitude</label><input type="text" id="latitude" name="latitude"></input><br />
-			<label>longitude</label><input type="text" id="longitude" name="longitude"></input><br />
-			<label>weather</label><input type="text" id="weather" name="weather"></input><br />
-			<label>time of day</label><input type="text" id="timeOfDay" name="timeOfDay"></input><br />
-			<label>road conditions</label><input type="text" id="roadConditions" name="roadConditions"></input><br />
-			<label>speeding?</label><input type="text" id="speeding" name="speeding"></input><br />
-			<label>speed limit</label><input type="text" id="speedLimit" name="speedLimit"></input><br />
-			<label>driving under the influence?</label><input type="text" id="dui" name="dui"></input><br />
-			<label>blood alcohol content</label><input type="text" id="bac" name="bac"></input><br />
-			<label>driver explanation for infraction</label><input type="text" class="long-text" id="driverReason" name="driverReason"></input><br />
+		<!-- <form method="post" action="http://localhost:3000/infractions" id="furtherInfoForm">-->
+		<form id="furtherInfoForm">
+			<label>latitude</label><input type="text" id="latitude" name="latitude"><br />
+			<label>longitude</label><input type="text" id="longitude" name="longitude"><br />
+			<label>weather</label><input type="text" id="weather" name="weather"><br />
+			<label>time of day</label><input type="text" id="timeOfDay" name="timeOfDay"><br />
+			<label>road conditions</label><input type="text" id="roadConditions" name="roadConditions"><br />
+			<label>speeding?</label><input type="text" id="speeding" name="speeding"><br />
+			<label>speed limit</label><input type="text" id="speedLimit" name="speedLimit"><br />
+			<label>driving under the influence?</label><input type="text" id="dui" name="dui"><br />
+			<label>blood alcohol content</label><input type="text" id="bac" name="bac"><br />
+			<label>driver explanation for infraction</label><input type="text" class="long-text" id="driverReason" name="driverReason"><br />
 		<!--	<input type="submit" value="next"> -->
-			<button type="submit" class="bottomButton">
+			<button  class="bottomButton" onclick="sendData()">
 				next
 				<img src="../assets/grapefruit_arrow.png" class="ellipse"/>	
 			</button>

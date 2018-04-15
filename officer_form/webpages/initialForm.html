@@ -13,6 +13,27 @@
 			function redirectToDriverEntry() {
 				window.location.replace("http://localhost:3000/driverEntry");
 			}
+			async function sendData() {
+                                console.log('sending data');
+                                console.log(document.getElementById("furtherInfoForm"));
+				console.log(document.getElementById("latitude").value);
+				var capturedValues = {};
+				capturedValues["latitude"] = document.getElementById("latitude").value;
+				capturedValues["longitude"] = document.getElementById("longitude").value;
+				capturedValues["weather"] = document.getElementById("weather").value;
+				capturedValues["timeOfDay"] = document.getElementById("timeOfDay").value;
+				capturedValues["roadConditions"] = document.getElementById("roadConditions").value;
+				capturedValues["speeding"] = document.getElementById("speeding").value;
+				capturedValues["speedLimit"] = document.getElementById("speedLimit").value;
+				capturedValues["dui"] = document.getElementById("dui").value;
+				capturedValues["bac"] = document.getElementById("bac").value;
+				capturedValues["driverReason"] = document.getElementById("driverReason").value;
+                                let response = await fetch('/infractions', {
+                                        headers: {"Content-Type": 'application/json'},
+                                        method: 'post',
+                                        body: JSON.stringify(capturedValues)
+                                });
+                        }
 		</script>
 		<link rel="stylesheet" type="text/css" href="./allStyles.css">
 	</head>
