@@ -3,7 +3,7 @@ import { Map, Marker, InfoWindow, GoogleApiWrapper } from 'google-maps-react';
 import SideBar from "./SideBar";
 import "./App.css";
 import collision from './data/collision_data.json';
-import speedingData from './data/speeding.json'; // Modify this!
+import speedingData from './data/officer_data.json'; 
 import grapefruit from './grapefruit smol.png';
 import acai from './acai smol.png';
 import green from './green_smol.png';
@@ -57,7 +57,7 @@ export class MapContainer extends Component {
                     data = {item}
                     icon = {image}
                     key = {speedIndex}
-                    position={{lat: parseFloat(item.long), lng: parseFloat(item.lat)}} // Modify this based on attribute name!
+                    position={{lat: parseFloat(item.latitude), lng: parseFloat(item.longitude)}} 
                 />
             )
         });
