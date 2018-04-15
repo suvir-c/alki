@@ -3,13 +3,16 @@ import { Map, Marker, InfoWindow, GoogleApiWrapper } from 'google-maps-react';
 import SideBar from "./SideBar";
 import "./App.css";
 import collision from './data/collision_data.json';
+import speedingData from './data/speeding.json';
 import grapefruit from './grapefruit smol.png';
 import acai from './acai smol.png';
+import green from './green_smol.png';
 
 export class MapContainer extends Component {
 
     constructor(props) {
         super(props);
+
         let image = grapefruit;
         let collisionsIndex = 0;
         let collisions = collision.filter((item) => {
@@ -27,11 +30,10 @@ export class MapContainer extends Component {
             );
         });
 
-        let duiIndex = 0;
         image = acai;
+        let duiIndex = 0;
         let duis = collision.filter((item) => {
             return item.lat !== 0 && item.long !== 0 && item.alcohol !== "-";
-
         }).map((item => {
             duiIndex++;
             return (
@@ -44,11 +46,29 @@ export class MapContainer extends Component {
                 />
             )
         }));
+
+        image = green;
+        let speedIndex = 0;
+        let speeding = speedingData.map((item) => {
+            speedIndex++;
+            return (
+                <Marker
+                    onClick = {this.onMarkerClick}
+                    data = {item}
+                    icon = {image}
+                    key = {speedIndex}
+                    position={{lat: parseFloat(item.long), lng: parseFloat(item.lat)}}
+                />
+            )
+        });
+
         this.state = {
             collisions: collisions,
             duis: duis,
+            speeding: speeding,
             hideCollisions: false,
             hideDUIs: false,
+            hideSpeed: false,
             showingInfoWindow: false,
             activeMarker: {},
             selectedPlace: {}
@@ -66,6 +86,13 @@ export class MapContainer extends Component {
         let curCollisions = this.state.hideCollisions;
         this.setState({
             hideCollisions: !curCollisions
+        });
+    };
+
+    onSpeedingToggle = () => {
+        let curSpeed = this.state.hideSpeed;
+        this.setState({
+            hideSpeed: !curSpeed
         });
     };
 
@@ -97,6 +124,11 @@ export class MapContainer extends Component {
             duis = this.state.duis;
         }
 
+        let speeding = null;
+        if (!this.state.hideSpeeding) {
+            speeding = this.state.speeding;
+        }
+
         let selectedPlaceInfo = [];
         for (var key in this.state.activeMarker.data) {
             selectedPlaceInfo.push("" + key +": " + this.state.activeMarker.data[key]);
@@ -125,6 +157,7 @@ export class MapContainer extends Component {
                          zoom={12}>
                         {collisions}
                         {duis}
+                        {speeding}
                         <InfoWindow
                             marker={this.state.activeMarker}
                             visible={this.state.showingInfoWindow}>
